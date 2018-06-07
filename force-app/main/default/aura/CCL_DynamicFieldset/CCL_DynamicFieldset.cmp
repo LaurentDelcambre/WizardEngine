@@ -1,0 +1,56 @@
+<aura:component implements="force:appHostable,force:hasRecordId,force:hasSObjectName" controller="CCL_DynamicFieldsetController">
+
+    <aura:attribute name="fieldSetName" type="String" default="FieldsGroup" description="The api name of the fieldset to use from the given object." />
+    <aura:attribute name="recordTypeId" type="String" />
+    <aura:attribute name="recordId"     type="String"  />
+    <aura:attribute name="sObjectName"  type="String"  />  
+    <aura:attribute name="fields" type="Object[]" access="private" />
+
+    <aura:method name="doSubmit" action="{!c.doSubmit}" description="Calls recordEditForm submit" />
+            
+    <aura:registerEvent name="navigationEvent" type="c:CCL_PRF_NavigationEvent"/>
+
+    
+    <aura:handler name="init" value="{!this}" action="{!c.init}" />
+    <aura:handler event="force:refreshView" action="{!c.init}" />
+
+    <!-- Display Lightning Data Service errors -->
+    <aura:if isTrue="{!not(empty(v.newContactError))}">
+        <div class="recordError">
+            <ui:message title="Error" severity="error" closable="true">
+                {!v.newContactError}
+            </ui:message>
+        </div>
+    </aura:if>
+
+    <lightning:card iconName="standard:event" title="Patient Information">
+
+        <lightning:notificationsLibrary aura:id="notifLib"/>
+        DEBUG: {!v.recordId}
+        <!-- Display the new contact form: no recordId attribute = NEW Record -->
+        <lightning:layout multipleRows="true">
+            <lightning:recordEditForm aura:id="recordEditForm"
+                                    objectApiName="{! v.sObjectName }"
+                                    recordTypeId="{! v.recordTypeId }"
+                                    onerror="{!c.saveError}"
+                                    onsubmit="{!c.saveSubmit}"
+                                    onsuccess="{!c.saveSuccess}"
+                                    recordId="{!v.recordId}">
+                <lightning:messages />
+
+                <aura:iteration items="{! v.fields }" var="fieldName">
+                    <lightning:layoutItem size="12" flexibility="auto" padding="around-small">
+                        <lightning:inputField aura:id="fieldId" fieldName="{! fieldName }" class="slds-p-top_small slds-m-top_medium" />
+                    </lightning:layoutItem>
+                </aura:iteration>
+
+                <lightning:layoutItem size="12" flexibility="auto" padding="around-small">
+						<lightning:button class="slds-m-top_small" variant="destructive" label="Previous" onclick="{!c.clickPrevious}"/>
+						<lightning:button class="slds-m-top_small" type="submit" variant="destructive" label="Next" />
+				</lightning:layoutItem>
+                
+            </lightning:recordEditForm>   
+        </lightning:layout>
+
+    </lightning:card>
+</aura:component>	

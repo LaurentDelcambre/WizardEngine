@@ -1,0 +1,18 @@
+[
+    {
+        "sobject": "Purpose__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Purpose__cs.json"
+        ]
+    },
+    {
+        "sobject": "AccountPurpose__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "AccountPurpose__cs.json"
+        ]
+    }
+]

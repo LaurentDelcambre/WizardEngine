@@ -1,0 +1,42 @@
+sfdx force:org:create -f config/project-scratch-def.json -a Scratch2 -s
+
+sfdx force:mdapi:retrieve -u Proto -r ./mdapipkg -k ./package.xml
+sfdx force:mdapi:convert -r .\mdapipkg\
+
+// Export recordtype
+sfdx force:data:tree:export -u Proto -q "SELECT ID, Name, DeveloperName, SobjectType FROM RecordType" --outputdir D:\Work\SFDX\CCL_PRF\data
+
+sfdx force:data:tree:export -u Proto -q "select account__r.name,account__r.recordtype.name, purpose__r.name from AccountPurpose__c" -p --outputdir D:\Work\SFDX\CCL_PRF\data
+
+// Account: Parent child
+sfdx force:data:tree:export -u Proto -q "SELECT CertifiedSite__c,DateOfBirth__c,Description,Fax,FirstName,Id,Industry,ISBTCompliant__c,LastName,MasterRecordId,Name,NumberOfEmployees,ParentId,PersonContactId,RecordType.name,Salutation,ShippingAddress,ShippingCity,ShippingCountry,ShippingGeocodeAccuracy,ShippingLatitude,ShippingLongitude,ShippingPostalCode,ShippingState,ShippingStreet,SicDesc,Type,Website,(SELECT SiteAccount__c, PatientAccount__c, BodyWeightInKg__c,DateOfBirth__c,FirstName__c,Id,LastName__c,MiddleNameInitial__c,PatientClassification__c FROM Patients__r limit 20),(SELECT AccountId,AssistantName,AssistantPhone,Birthdate,Department,Description,Email,Fax,FirstName,HomePhone,Id,LastName,MailingCity,MailingCountry,MailingGeocodeAccuracy,MailingLatitude,MailingLongitude,MailingPostalCode,MailingState,MailingStreet,MasterRecordId,MobilePhone,Phone,Salutation FROM Contacts order by AccountId),(SELECT Id,Name FROM Purposes__r) FROM Account" -p --outputdir D:\Work\SFDX\CCL_RetrieveFromSandbox\data
+
+// ParentPurpose many to many
+sfdx force:data:tree:export -u Proto -q "SELECT Id,Name,ParentPurpose__c,Practice__c,PurposeCode__c,Region__c, (SELECT Id FROM Accounts__r) FROM Purpose__c" -p --outputdir D:\Work\SFDX\CCL_RetrieveFromSandbox\data
+
+// Cases (limit 10)
+sfdx force:data:tree:export -u Proto -q "SELECT AccountId, ApheresisCenter__c, ContactId, ParentId, Patient__c,Purpose__c,ADF_Approved_Date__c,ADF_Rejected_Date__c,ADF_Status__c,ADF_Submitted_Date__c,ApheresisDatePlanned__c,ApheresisEndLatest__c,ApheresisPickupPlanned__c,ApheresisStartEarliest__c,CM_OperationalFunction__c,CM_ServiceModule__c,CM_SupportArea__c,Description,EntitlementId,GroupBatchNumber__c,Id,Origin,PickupCourierNumber__c,PRFApprovedDate__c,PRFSubmittedDate__c,PRF_RejectedDate__c,PRF_Status__c,Priority,ProcessOrderPrimary__c,PurchaseOrder__c,Reason,SalesOrderNumber__c,Status,Status_Apheresis_Pickup__c,Status_Apheresis_Procedure__c,Status_Cell_Processing__c,Status_Finished_Product_Delivery__c,Status_Overall_Infusion__c,Status_Overall_Treatment__c,Status_Plant_Appointment__c,Subject,SuppliedCompany,SuppliedEmail,SuppliedName,SuppliedPhone,TreatmentKey__c,Type FROM Case where AccountId != null order by id limit 10" --outputdir D:\Work\SFDX\CCL_RetrieveFromSandbox\data
+
+// Import
+sfdx force:data:tree:import -p D:\Work\SFDX\CCL_RetrieveFromSandbox\data\
+
+
+Account:
+SELECT CertifiedSite__c,DateOfBirth__c,Description,Fax,FirstName,Id,Industry,ISBTCompliant__c,IsCustomerPortal,IsPersonAccount,LastActivityDate,LastName,MasterRecordId,Name,NumberOfEmployees,ParentId,PersonContactId,RecordType.name,Salutation,ShippingAddress,ShippingCity,ShippingCountry,ShippingGeocodeAccuracy,ShippingLatitude,ShippingLongitude,ShippingPostalCode,ShippingState,ShippingStreet,SicDesc,Type,Website from Account
+
+Purpose:
+SELECT Id,Name,ParentPurpose__c,Practice__c,PurposeCode__c,Region__c FROM Purpose__c
+
+Contact:
+SELECT AccountId,AssistantName,AssistantPhone,Birthdate,Department,Description,Email,Fax,FirstName,HomePhone,Id,LastName,MailingCity,MailingCountry,MailingGeocodeAccuracy,MailingLatitude,MailingLongitude,MailingPostalCode,MailingState,MailingStreet,MasterRecordId,MobilePhone,Phone,Salutation FROM Contact order by AccountId
+
+Patient__c:
+SELECT SiteAccount__c, PatientAccount__c, BodyWeightInKg__c,DateOfBirth__c,FirstName__c,Id,LastName__c,MiddleNameInitial__c,Name,PatientClassification__c FROM Patients__r limit 20
+
+Case:
+SELECT AccountId, ApheresisCenter__c, ContactId, ParentId, Patient__c,Purpose__c,
+ADF_Approved_Date__c,ADF_Rejected_Date__c,ADF_Status_Flag__c,ADF_Status__c,ADF_Submitted_Date__c,ApheresisDatePlanned__c,ApheresisEndLatest__c,ApheresisPickupPlanned__c,ApheresisStartEarliest__c,ClosedDate,CM_OperationalFunction__c,CM_ServiceModule__c,CM_SupportArea__c,ContactEmail,ContactFax,ContactMobile,ContactPhone,Description,EntitlementId,GroupBatchNumber__c,Id,Origin,PickupCourierNumber__c,PRFApprovedDate__c,PRFSubmittedDate__c,PRF_RejectedDate__c,PRF_Status__c,Priority,ProcessOrderPrimary__c,PurchaseOrder__c,Reason,SalesOrderNumber__c,Status,Status_Apheresis_Pickup__c,Status_Apheresis_Procedure__c,Status_Cell_Processing__c,Status_Finished_Product_Delivery__c,Status_Overall_Infusion__c,Status_Overall_Treatment__c,Status_Plant_Appointment__c,Subject,SuppliedCompany,SuppliedEmail,SuppliedName,SuppliedPhone,TreatmentKey__c,Type FROM Case
+
+Case from Account:
+select Id, (SELECT AccountId, ApheresisCenter__c, ContactId, ParentId, Patient__c,Purpose__c,ADF_Approved_Date__c,ADF_Rejected_Date__c,ADF_Status_Flag__c,ADF_Status__c,ADF_Submitted_Date__c,ApheresisDatePlanned__c,ApheresisEndLatest__c,ApheresisPickupPlanned__c,ApheresisStartEarliest__c,CM_OperationalFunction__c,CM_ServiceModule__c,CM_SupportArea__c,ContactEmail,ContactFax,ContactMobile,ContactPhone,Description,EntitlementId,GroupBatchNumber__c,Id,Origin,PickupCourierNumber__c,PRFApprovedDate__c,PRFSubmittedDate__c,PRF_RejectedDate__c,PRF_Status__c,Priority,ProcessOrderPrimary__c,PurchaseOrder__c,Reason,SalesOrderNumber__c,Status,Status_Apheresis_Pickup__c,Status_Apheresis_Procedure__c,Status_Cell_Processing__c,Status_Finished_Product_Delivery__c,Status_Overall_Infusion__c,Status_Overall_Treatment__c,Status_Plant_Appointment__c,Subject,SuppliedCompany,SuppliedEmail,SuppliedName,SuppliedPhone,TreatmentKey__c,Type FROM Cases) from Account
+

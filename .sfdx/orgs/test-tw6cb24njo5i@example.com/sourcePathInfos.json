@@ -1,0 +1,4294 @@
+[
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150512,
+            "changeTime": 1526031769097,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150512,
+            "changeTime": 1526031769097,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033151046,
+            "changeTime": 1526032551519,
+            "contentHash": "3587f4909282ad1fb09e4455c4290dbd5c4f687c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\approvalProcesses",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\approvalProcesses",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150518,
+            "changeTime": 1526031769103,
+            "contentHash": "bb60532706039d48238b82f5a20545af3e3c614a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\approvalProcesses\\Case.ADF_Approval_simple.approvalProcess-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\approvalProcesses\\Case.ADF_Approval_simple.approvalProcess-meta.xml",
+            "isDirectory": false,
+            "size": 3080,
+            "modifiedTime": 1526031769099,
+            "changeTime": 1526031769099,
+            "contentHash": "9c843208ad8b2571d6f7f0a24e1509b22e701aab",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\approvalProcesses\\Case.PRFApprovalSimple.approvalProcess-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\approvalProcesses\\Case.PRFApprovalSimple.approvalProcess-meta.xml",
+            "isDirectory": false,
+            "size": 3418,
+            "modifiedTime": 1526031769103,
+            "changeTime": 1526031769103,
+            "contentHash": "4d9cef8f8f757d00d52e096e6684381907741134",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\customMetadata",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\customMetadata",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150524,
+            "changeTime": 1526031769108,
+            "contentHash": "45ea6e1d011861dc48bead24667a9852ca6ae1fc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\customMetadata\\NotificationSetting.NOT_001.md-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\customMetadata\\NotificationSetting.NOT_001.md-meta.xml",
+            "isDirectory": false,
+            "size": 956,
+            "modifiedTime": 1526033150520,
+            "changeTime": 1526031769105,
+            "contentHash": "5bd24165abe49e33eab7ad163f83381439d3a01f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\customMetadata\\NotificationSetting.NOT_002.md-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\customMetadata\\NotificationSetting.NOT_002.md-meta.xml",
+            "isDirectory": false,
+            "size": 930,
+            "modifiedTime": 1526033150522,
+            "changeTime": 1526031769107,
+            "contentHash": "e007210f9fe6aba351810872669077e53e248ff3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\customMetadata\\NotificationSetting.NOT_003.md-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\customMetadata\\NotificationSetting.NOT_003.md-meta.xml",
+            "isDirectory": false,
+            "size": 884,
+            "modifiedTime": 1526033150524,
+            "changeTime": 1526031769109,
+            "contentHash": "5c4bb015e734dbffe3454764623d89488ca58b20",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150527,
+            "changeTime": 1526031769112,
+            "contentHash": "1f7d48f4b84bdbfc3da95b695162042989e9c854",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email\\CCL_Notifications",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email\\CCL_Notifications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033151061,
+            "changeTime": 1526031769572,
+            "contentHash": "d7ee26de7a9fa174746fe5719b9cb688d92b50f9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email\\CCL_Notifications\\NOT_001_EMAIL_DE.email",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email\\CCL_Notifications\\NOT_001_EMAIL_DE.email",
+            "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1526033151053,
+            "changeTime": 1526031769563,
+            "contentHash": "756605bbff3d95d13e547f72fb808fbe63d07b60",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email\\CCL_Notifications\\NOT_001_EMAIL_DE.email-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email\\CCL_Notifications\\NOT_001_EMAIL_DE.email-meta.xml",
+            "isDirectory": false,
+            "size": 364,
+            "modifiedTime": 1526033151052,
+            "changeTime": 1526031769562,
+            "contentHash": "6446d43d099bc52f03ebc0a05297edf8e430895d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email\\CCL_Notifications\\NOT_001_EMAIL_EN.email",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email\\CCL_Notifications\\NOT_001_EMAIL_EN.email",
+            "isDirectory": false,
+            "size": 129,
+            "modifiedTime": 1526033151056,
+            "changeTime": 1526031769567,
+            "contentHash": "ae1b37b35a219f5a399e840e0337ad3b99e80479",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email\\CCL_Notifications\\NOT_001_EMAIL_EN.email-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email\\CCL_Notifications\\NOT_001_EMAIL_EN.email-meta.xml",
+            "isDirectory": false,
+            "size": 365,
+            "modifiedTime": 1526033151056,
+            "changeTime": 1526031769566,
+            "contentHash": "264cfdba57ae65796c0b7b00164eb49828edf822",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email\\CCL_Notifications\\NOT_001_SMS_DE.email",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email\\CCL_Notifications\\NOT_001_SMS_DE.email",
+            "isDirectory": false,
+            "size": 103,
+            "modifiedTime": 1526033151059,
+            "changeTime": 1526031769569,
+            "contentHash": "03400ed2f16bb7b3e2267e5ab76bdcae1e0ba313",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email\\CCL_Notifications\\NOT_001_SMS_DE.email-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email\\CCL_Notifications\\NOT_001_SMS_DE.email-meta.xml",
+            "isDirectory": false,
+            "size": 362,
+            "modifiedTime": 1526033151058,
+            "changeTime": 1526031769569,
+            "contentHash": "9fb9ac3934036ecfd21ca89a7220d72b3b49cac4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email\\CCL_Notifications\\NOT_001_SMS_EN.email",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email\\CCL_Notifications\\NOT_001_SMS_EN.email",
+            "isDirectory": false,
+            "size": 77,
+            "modifiedTime": 1526033151061,
+            "changeTime": 1526031769572,
+            "contentHash": "0a486862322478ee55d4dc2671e68243abda6125",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email\\CCL_Notifications\\NOT_001_SMS_EN.email-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email\\CCL_Notifications\\NOT_001_SMS_EN.email-meta.xml",
+            "isDirectory": false,
+            "size": 362,
+            "modifiedTime": 1526033151061,
+            "changeTime": 1526031769571,
+            "contentHash": "219375def85766db0dccc4c50374f74713549559",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email\\CCL_Notifications.emailFolder-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\email\\CCL_Notifications.emailFolder-meta.xml",
+            "isDirectory": false,
+            "size": 241,
+            "modifiedTime": 1526033150526,
+            "changeTime": 1526031769110,
+            "contentHash": "7322db99448ea8bae45e7719c45698a032b07df1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\globalValueSets",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\globalValueSets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150528,
+            "changeTime": 1526031769113,
+            "contentHash": "1bacfc1ccc2fa02c8785f5560068c031569e5fb8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\globalValueSets\\Approval_Status.globalValueSet-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\globalValueSets\\Approval_Status.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "size": 893,
+            "modifiedTime": 1526033150529,
+            "changeTime": 1526031769113,
+            "contentHash": "ad712c7883856e2edc8bcf481fe630d3ad06c3a9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033151039,
+            "changeTime": 1526032551513,
+            "contentHash": "2d32f9d27ab0868c69ef813604a3796f256cc371",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150655,
+            "changeTime": 1526031769240,
+            "contentHash": "a86e604889459b3ddf9d4ca58332a59e5cdf57ac",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+            "isDirectory": false,
+            "size": 4252,
+            "modifiedTime": 1526033150617,
+            "changeTime": 1526031769203,
+            "contentHash": "3a7783764b29084e10c72f699d05736f0001b311",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150641,
+            "changeTime": 1526031769224,
+            "contentHash": "509c9a0ad9e5c20fa116dbfc29f95e43e29e00b9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
+            "isDirectory": false,
+            "size": 202,
+            "modifiedTime": 1526033150619,
+            "changeTime": 1526031769204,
+            "contentHash": "2485668a3437d5add365adc6395699585c0ec6d0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1526033150619,
+            "changeTime": 1526031769205,
+            "contentHash": "1dee20ac58a40482934d035192fe7a98db6d9a81",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
+            "isDirectory": false,
+            "size": 202,
+            "modifiedTime": 1526033150619,
+            "changeTime": 1526031769205,
+            "contentHash": "428d667e4a7e884d30e9f297f975d2a6484dc2cd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
+            "isDirectory": false,
+            "size": 450,
+            "modifiedTime": 1526033150620,
+            "changeTime": 1526031769206,
+            "contentHash": "25f4269bf743b5e4addefdbdf43c57e70e8fe83b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\CertifiedSite__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\CertifiedSite__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 442,
+            "modifiedTime": 1526033150623,
+            "changeTime": 1526031769207,
+            "contentHash": "65b54eb6aba497d1cb417d1028fcddf8a7d87760",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\DateOfBirth__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\DateOfBirth__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 571,
+            "modifiedTime": 1526033150623,
+            "changeTime": 1526031769207,
+            "contentHash": "d3414b6dbc0c1921b6cae3b403d7480c170f6881",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
+            "isDirectory": false,
+            "size": 447,
+            "modifiedTime": 1526033150623,
+            "changeTime": 1526031769208,
+            "contentHash": "4dd0081835cbf39579a6eb2fa51dbbe065463b90",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
+            "isDirectory": false,
+            "size": 439,
+            "modifiedTime": 1526033150624,
+            "changeTime": 1526031769209,
+            "contentHash": "e0f8386ccfe92a434c29418751e4f79085f809b6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1526033150625,
+            "changeTime": 1526031769210,
+            "contentHash": "6f0a5236c2130d964cc6b9654fd5f11e512dca47",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\ISBTCompliant__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\ISBTCompliant__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 418,
+            "modifiedTime": 1526033150624,
+            "changeTime": 1526031769209,
+            "contentHash": "e05405212863a2c5eaeb79973f59db62379a73d7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\IsCustomerPortal.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\IsCustomerPortal.field-meta.xml",
+            "isDirectory": false,
+            "size": 158,
+            "modifiedTime": 1526033150626,
+            "changeTime": 1526031769210,
+            "contentHash": "146e33098ed6548b8e7d2ccc136192180f84074b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1526033150626,
+            "changeTime": 1526031769211,
+            "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
+            "isDirectory": false,
+            "size": 439,
+            "modifiedTime": 1526033150627,
+            "changeTime": 1526031769212,
+            "contentHash": "796188af37ae6d4d36b51d6701b19d36aa4f846f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
+            "isDirectory": false,
+            "size": 206,
+            "modifiedTime": 1526033150627,
+            "changeTime": 1526031769212,
+            "contentHash": "9d2f6c78b600962d19202740171268557046a498",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1526033150628,
+            "changeTime": 1526031769213,
+            "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1526033150628,
+            "changeTime": 1526031769213,
+            "contentHash": "d84c9b729263e5159ea9a88550f4941bde5aa50e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1526033150629,
+            "changeTime": 1526031769214,
+            "contentHash": "a189aa9e1c94d29eb1f90c9544bfbd668be25cff",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonAssistantName.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonAssistantName.field-meta.xml",
+            "isDirectory": false,
+            "size": 455,
+            "modifiedTime": 1526033150631,
+            "changeTime": 1526031769214,
+            "contentHash": "3e6391070043121a155ece674fb2b28e42acc8ef",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonAssistantPhone.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonAssistantPhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 456,
+            "modifiedTime": 1526033150631,
+            "changeTime": 1526031769214,
+            "contentHash": "f3b3d3689abfab6fa6958a9baa8b6c87ba6c44f9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonBirthdate.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonBirthdate.field-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1526033150632,
+            "changeTime": 1526031769215,
+            "contentHash": "022ecd881a6110bd2e00b1a172b818dcfb09144a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonDepartment.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonDepartment.field-meta.xml",
+            "isDirectory": false,
+            "size": 205,
+            "modifiedTime": 1526033150632,
+            "changeTime": 1526031769215,
+            "contentHash": "8e369e5bfbb61e466a72b3742aa187b26cf776e8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonDoNotCall.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonDoNotCall.field-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1526033150632,
+            "changeTime": 1526031769215,
+            "contentHash": "13fa46bf78a336cdc2244b34de2f80132bf4469f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonEmail.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonEmail.field-meta.xml",
+            "isDirectory": false,
+            "size": 447,
+            "modifiedTime": 1526033150633,
+            "changeTime": 1526031769216,
+            "contentHash": "1a1cef309314ace9c145429b9c0a2b1098fb0ad9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonHasOptedOutOfEmail.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonHasOptedOutOfEmail.field-meta.xml",
+            "isDirectory": false,
+            "size": 213,
+            "modifiedTime": 1526033150633,
+            "changeTime": 1526031769216,
+            "contentHash": "a819340f697063a6a16439e03c4e0bc27c549948",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonHasOptedOutOfFax.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonHasOptedOutOfFax.field-meta.xml",
+            "isDirectory": false,
+            "size": 211,
+            "modifiedTime": 1526033150634,
+            "changeTime": 1526031769217,
+            "contentHash": "fcf86aba156bc1f40b6d3e97e9a55b6b2791cead",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonHomePhone.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonHomePhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 451,
+            "modifiedTime": 1526033150634,
+            "changeTime": 1526031769217,
+            "contentHash": "08fa04dce0557ab6bca5e347eeee954f843d71a7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonLastCURequestDate.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonLastCURequestDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 165,
+            "modifiedTime": 1526033150635,
+            "changeTime": 1526031769217,
+            "contentHash": "d5af57413b9799273a8c8152cb65f37f9880f82d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonLastCUUpdateDate.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonLastCUUpdateDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 164,
+            "modifiedTime": 1526033150635,
+            "changeTime": 1526031769218,
+            "contentHash": "ab2af3fd3ce2baa89a492be8be808c9b233dabb0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonLeadSource.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonLeadSource.field-meta.xml",
+            "isDirectory": false,
+            "size": 231,
+            "modifiedTime": 1526033150636,
+            "changeTime": 1526031769218,
+            "contentHash": "6893fd97316a4531e95c7ac69f18d9a6d33c9461",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonMailingAddress.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonMailingAddress.field-meta.xml",
+            "isDirectory": false,
+            "size": 456,
+            "modifiedTime": 1526033150636,
+            "changeTime": 1526031769219,
+            "contentHash": "531b33f928fe88f7c4a69b82a4cdbbbbda8f32f7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonMobilePhone.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonMobilePhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 453,
+            "modifiedTime": 1526033150636,
+            "changeTime": 1526031769219,
+            "contentHash": "d2f741fbbe3f33ad4d1aa5c4ce7a3b86f8ee7eae",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonOtherAddress.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonOtherAddress.field-meta.xml",
+            "isDirectory": false,
+            "size": 454,
+            "modifiedTime": 1526033150637,
+            "changeTime": 1526031769219,
+            "contentHash": "771875041c138800061a0a2203184b476f652eea",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonOtherPhone.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonOtherPhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 452,
+            "modifiedTime": 1526033150637,
+            "changeTime": 1526031769220,
+            "contentHash": "7b36e26c2f8786f37cfb4685c86bdecd36137c21",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonTitle.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\PersonTitle.field-meta.xml",
+            "isDirectory": false,
+            "size": 447,
+            "modifiedTime": 1526033150638,
+            "changeTime": 1526031769220,
+            "contentHash": "3b99033b087d87eb07f5d70336fcc28cea110ab0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
+            "isDirectory": false,
+            "size": 441,
+            "modifiedTime": 1526033150638,
+            "changeTime": 1526031769221,
+            "contentHash": "0cb18c8b3a30ef60aa13916c4a292cb5fd8de766",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
+            "isDirectory": false,
+            "size": 221,
+            "modifiedTime": 1526033150638,
+            "changeTime": 1526031769221,
+            "contentHash": "a8224eb175152b9deed680b818cbffd218dd5e3f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
+            "isDirectory": false,
+            "size": 451,
+            "modifiedTime": 1526033150639,
+            "changeTime": 1526031769221,
+            "contentHash": "b5d56d07bea64c30d2d865f4da34441d7a0656f4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1526033150639,
+            "changeTime": 1526031769222,
+            "contentHash": "33262a22c31dbefac748023c3a6c018d743d3161",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1526033150640,
+            "changeTime": 1526031769222,
+            "contentHash": "bc19f903ec1384e12d7dd7bc9ffa88580a091422",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
+            "isDirectory": false,
+            "size": 440,
+            "modifiedTime": 1526033150640,
+            "changeTime": 1526031769223,
+            "contentHash": "79519634c6a25b7afeade5c81bb2a00f43738615",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
+            "isDirectory": false,
+            "size": 201,
+            "modifiedTime": 1526033150640,
+            "changeTime": 1526031769223,
+            "contentHash": "9d08b4f2d44e5bd6161a034a999f2fd3f8179f49",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1526033150641,
+            "changeTime": 1526031769223,
+            "contentHash": "3467b15d43e2f23e3287cad8cd0622c58b3fdc61",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
+            "isDirectory": false,
+            "size": 443,
+            "modifiedTime": 1526033150641,
+            "changeTime": 1526031769224,
+            "contentHash": "9b339389c578ab6324947d6d7bc2604a3661fe1b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\listViews",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150642,
+            "changeTime": 1526031769225,
+            "contentHash": "096a18b75961330fa9b696983e53eb629beda0b7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\listViews\\AllAccounts.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\listViews\\AllAccounts.listView-meta.xml",
+            "isDirectory": false,
+            "size": 453,
+            "modifiedTime": 1526033150642,
+            "changeTime": 1526031769225,
+            "contentHash": "7ed225d667488231c622b3850e18c75d44208bce",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\listViews\\MyAccounts.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\listViews\\MyAccounts.listView-meta.xml",
+            "isDirectory": false,
+            "size": 327,
+            "modifiedTime": 1526033150642,
+            "changeTime": 1526031769225,
+            "contentHash": "96e1d0c68a27be61712db89522cdaafee2bd6d9e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\listViews\\NewThisWeek.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\listViews\\NewThisWeek.listView-meta.xml",
+            "isDirectory": false,
+            "size": 598,
+            "modifiedTime": 1526033150643,
+            "changeTime": 1526031769225,
+            "contentHash": "86107632a805b7d570db194b2834a4cdbc4a40c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\recordTypes",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\recordTypes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150655,
+            "changeTime": 1526031769239,
+            "contentHash": "25112542b79d7d0e9507b8f8eddb018a4dcdc347",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\recordTypes\\ApheresisCenter.recordType-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\recordTypes\\ApheresisCenter.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 7137,
+            "modifiedTime": 1526033150645,
+            "changeTime": 1526031769227,
+            "contentHash": "75f7ea819930a0808042b318c3bda1279cdbaf93",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\recordTypes\\InfusionCenter.recordType-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\recordTypes\\InfusionCenter.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 7134,
+            "modifiedTime": 1526033150646,
+            "changeTime": 1526031769229,
+            "contentHash": "60fbdb3c27199abe12dc9dc83f24eae7790d308d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\recordTypes\\Patient.recordType-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\recordTypes\\Patient.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 7072,
+            "modifiedTime": 1526033150648,
+            "changeTime": 1526031769232,
+            "contentHash": "38d92686d9045c269c19e7d17b443fd8ee91cfd5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\recordTypes\\Plant.recordType-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\recordTypes\\Plant.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 7068,
+            "modifiedTime": 1526033150649,
+            "changeTime": 1526031769233,
+            "contentHash": "5b8109d1676facb6e6c0fdfa4360de0fe6876f10",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\recordTypes\\PlantRouting.recordType-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\recordTypes\\PlantRouting.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 7287,
+            "modifiedTime": 1526033150652,
+            "changeTime": 1526031769236,
+            "contentHash": "cce81063d7bf068afea3a3f9dbeb7bc8d1d5d52b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\recordTypes\\Site.recordType-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\recordTypes\\Site.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 7106,
+            "modifiedTime": 1526033150654,
+            "changeTime": 1526031769238,
+            "contentHash": "2c5c922d0c58c54bfb67bffdfaf20274a08a3c39",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\recordTypes\\Team.recordType-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\recordTypes\\Team.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 7066,
+            "modifiedTime": 1526033150655,
+            "changeTime": 1526031769240,
+            "contentHash": "f753263bf825a22243df12154a6e31b9669bed3f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\webLinks",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\webLinks",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150661,
+            "changeTime": 1526031769245,
+            "contentHash": "52a1276436094749a60fdb487175df659a408ba3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\webLinks\\AltavistaNews.webLink-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\webLinks\\AltavistaNews.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 753,
+            "modifiedTime": 1526033150656,
+            "changeTime": 1526031769241,
+            "contentHash": "8e2d991a7a99fa11477132b1f75dad4ebe4e6a86",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\webLinks\\GoogleMaps.webLink-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\webLinks\\GoogleMaps.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 820,
+            "modifiedTime": 1526033150657,
+            "changeTime": 1526031769241,
+            "contentHash": "ed359ac5f513b975b44ee835420958f6f6213610",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\webLinks\\GoogleNews.webLink-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\webLinks\\GoogleNews.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 762,
+            "modifiedTime": 1526033150658,
+            "changeTime": 1526031769242,
+            "contentHash": "399a56f1982a8825ac305d05bdfe271a85c166dd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\webLinks\\GoogleSearch.webLink-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\webLinks\\GoogleSearch.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 742,
+            "modifiedTime": 1526033150658,
+            "changeTime": 1526031769243,
+            "contentHash": "6e79270b73f96f86d1c18498d2373250ed4b7485",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\webLinks\\HooversProfile.webLink-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\webLinks\\HooversProfile.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 791,
+            "modifiedTime": 1526033150659,
+            "changeTime": 1526031769244,
+            "contentHash": "0b148e3f7a3fafa9d25c3e2e86d9318201d51908",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\webLinks\\SDOC__Email_Docs.webLink-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\webLinks\\SDOC__Email_Docs.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 500,
+            "modifiedTime": 1526033150660,
+            "changeTime": 1526031769244,
+            "contentHash": "1bc7666488402a7427976a6b92c89a398cf7b18e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\webLinks\\SDOC__S_Docs.webLink-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\webLinks\\SDOC__S_Docs.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 492,
+            "modifiedTime": 1526033150660,
+            "changeTime": 1526031769245,
+            "contentHash": "491c99911a17768bac9a2d682a1018f881ccc7f0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\webLinks\\YahooMaps.webLink-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Account\\webLinks\\YahooMaps.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 867,
+            "modifiedTime": 1526033150661,
+            "changeTime": 1526031769246,
+            "contentHash": "e74eabb62fdb46a1f2163e614897153c090d2ce2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150877,
+            "changeTime": 1526031769456,
+            "contentHash": "50f46cc4a8acc8e2c3484b28cab867ec5f0ecc88",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\businessProcesses",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\businessProcesses",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150836,
+            "changeTime": 1526031769413,
+            "contentHash": "6e146ce48a9b6d295ba2c06cb71b78677483bcdb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\businessProcesses\\PatientServices.businessProcess-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\businessProcesses\\PatientServices.businessProcess-meta.xml",
+            "isDirectory": false,
+            "size": 680,
+            "modifiedTime": 1526031769413,
+            "changeTime": 1526031769413,
+            "contentHash": "f873206094b2ae54ad7317b23f92c713012ee0c4",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\businessProcesses\\Program %28Enrollment%29.businessProcess-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\businessProcesses\\Program %28Enrollment%29.businessProcess-meta.xml",
+            "isDirectory": false,
+            "size": 662,
+            "modifiedTime": 1526031769413,
+            "changeTime": 1526031769413,
+            "contentHash": "a67eebb41778c10b2153813b9b97869c5737fb57",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\businessProcesses\\Treatment.businessProcess-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\businessProcesses\\Treatment.businessProcess-meta.xml",
+            "isDirectory": false,
+            "size": 1018,
+            "modifiedTime": 1526031769413,
+            "changeTime": 1526031769413,
+            "contentHash": "7eec9812ad4fda101a94815126ae56332e2755cb",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\Case.object-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\Case.object-meta.xml",
+            "isDirectory": false,
+            "size": 4448,
+            "modifiedTime": 1526031769412,
+            "changeTime": 1526031769412,
+            "contentHash": "82c2ba611950749c625630592c215d7163751aa4",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\compactLayouts",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\compactLayouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150836,
+            "changeTime": 1526031769414,
+            "contentHash": "56b49f5740f0febbd7e7d1c8be5916eb2154bd02",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\compactLayouts\\NewDefault.compactLayout-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\compactLayouts\\NewDefault.compactLayout-meta.xml",
+            "isDirectory": false,
+            "size": 420,
+            "modifiedTime": 1526031769414,
+            "changeTime": 1526031769414,
+            "contentHash": "a8b8016b31c8f9c26132e71ce64afe3f2ecbf91e",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150872,
+            "changeTime": 1526031769451,
+            "contentHash": "8d1bbacd2f4183d8c132a7f322f7fce8e4ee0c0d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\AccountId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\AccountId.field-meta.xml",
+            "isDirectory": false,
+            "size": 302,
+            "modifiedTime": 1526031769419,
+            "changeTime": 1526031769419,
+            "contentHash": "1cacb79921be5f60c03389009787e124b2ed4723",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ADF_Approved_Date__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ADF_Approved_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 665,
+            "modifiedTime": 1526031769416,
+            "changeTime": 1526031769416,
+            "contentHash": "fd87dbed493fe642554df9fe77ee7bcdc8ff9767",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ADF_Rejected_Date__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ADF_Rejected_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 665,
+            "modifiedTime": 1526031769416,
+            "changeTime": 1526031769416,
+            "contentHash": "cdf4351ef5cfda4c882a599db2bba728c9c695c0",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ADF_Status_Flag__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ADF_Status_Flag__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 694,
+            "modifiedTime": 1526031769416,
+            "changeTime": 1526031769416,
+            "contentHash": "12bb145ec850aa01b8fdedb153b98d9b280c966e",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ADF_Status__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ADF_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 567,
+            "modifiedTime": 1526031769418,
+            "changeTime": 1526031769418,
+            "contentHash": "b839ace84169d95d2934d97badce7ed2532a721a",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ADF_Submitted_Date__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ADF_Submitted_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 667,
+            "modifiedTime": 1526031769418,
+            "changeTime": 1526031769418,
+            "contentHash": "e665b6203a934d3fa35bef7f82329e263b22b0f0",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ApheresisCenter__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ApheresisCenter__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 612,
+            "modifiedTime": 1526031769419,
+            "changeTime": 1526031769419,
+            "contentHash": "8fa9111486a345207f3c94d552fcef595c06de1c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ApheresisDatePlanned__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ApheresisDatePlanned__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 673,
+            "modifiedTime": 1526031769420,
+            "changeTime": 1526031769420,
+            "contentHash": "d8c665698b5b0c29eb9751cc5cd2791300ae9f38",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ApheresisEndLatest__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ApheresisEndLatest__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 669,
+            "modifiedTime": 1526031769420,
+            "changeTime": 1526031769420,
+            "contentHash": "89908a2db5b81b9d4e1006db2a4f938c14d31611",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ApheresisPickupPlanned__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ApheresisPickupPlanned__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 677,
+            "modifiedTime": 1526031769421,
+            "changeTime": 1526031769421,
+            "contentHash": "d869dcd7355cfa3d126e382e5abdf59f1b2d6021",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ApheresisStartEarliest__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ApheresisStartEarliest__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 677,
+            "modifiedTime": 1526031769422,
+            "changeTime": 1526031769422,
+            "contentHash": "7b864726b3f38203848c8f13b4e4115784d89b79",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\AssetId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\AssetId.field-meta.xml",
+            "isDirectory": false,
+            "size": 299,
+            "modifiedTime": 1526031769422,
+            "changeTime": 1526031769422,
+            "contentHash": "65387929308ea837e5d8db448edaa04ce6d19501",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\BusinessHoursId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\BusinessHoursId.field-meta.xml",
+            "isDirectory": false,
+            "size": 308,
+            "modifiedTime": 1526031769422,
+            "changeTime": 1526031769422,
+            "contentHash": "bd407ab3418d4c0105635a2e94328ee23ece2c7b",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ClosedDate.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ClosedDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 193,
+            "modifiedTime": 1526031769427,
+            "changeTime": 1526031769427,
+            "contentHash": "fe9266f8deba7e98727818b1c4d4c5a401b661f1",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\CM_OperationalFunction__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\CM_OperationalFunction__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 20216,
+            "modifiedTime": 1526031769424,
+            "changeTime": 1526031769424,
+            "contentHash": "2c94cad18dc63a4fcdbba3e324306ea7f2979a58",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\CM_ServiceModule__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\CM_ServiceModule__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 7038,
+            "modifiedTime": 1526031769425,
+            "changeTime": 1526031769425,
+            "contentHash": "fadc8f26cc5d3d71ad9088eeec17138ea216d626",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\CM_SupportArea__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\CM_SupportArea__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1428,
+            "modifiedTime": 1526031769426,
+            "changeTime": 1526031769426,
+            "contentHash": "8a0122e83224837d69c2078994fc415d52668063",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Comments.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Comments.field-meta.xml",
+            "isDirectory": false,
+            "size": 191,
+            "modifiedTime": 1526031769427,
+            "changeTime": 1526031769427,
+            "contentHash": "0151e1eb4b7753644b712a60d1e2e3b0dea3c93e",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ContactEmail.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ContactEmail.field-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1526031769427,
+            "changeTime": 1526031769427,
+            "contentHash": "decee9667fd366c60248b76d0ae321d810ff7d82",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ContactFax.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ContactFax.field-meta.xml",
+            "isDirectory": false,
+            "size": 193,
+            "modifiedTime": 1526031769428,
+            "changeTime": 1526031769428,
+            "contentHash": "cb0e24f2f9b2a79bb29753110aa961c26ab2db37",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ContactId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ContactId.field-meta.xml",
+            "isDirectory": false,
+            "size": 301,
+            "modifiedTime": 1526031769428,
+            "changeTime": 1526031769428,
+            "contentHash": "78d195d1a849a917372c92f99133215160bc3e93",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ContactMobile.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ContactMobile.field-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1526031769429,
+            "changeTime": 1526031769429,
+            "contentHash": "533f77dcc799e97eb3dd5958c86d3f24b407d04f",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ContactPhone.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ContactPhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1526031769429,
+            "changeTime": 1526031769429,
+            "contentHash": "acb08c592fd629c17a0ecfb1b9337c924c4b9c17",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Description.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Description.field-meta.xml",
+            "isDirectory": false,
+            "size": 526,
+            "modifiedTime": 1526031769430,
+            "changeTime": 1526031769430,
+            "contentHash": "fc2c81dd7d7a63b1983fc667bceb4ecb79ec6251",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\EntitlementId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\EntitlementId.field-meta.xml",
+            "isDirectory": false,
+            "size": 306,
+            "modifiedTime": 1526031769430,
+            "changeTime": 1526031769430,
+            "contentHash": "f3028d3bddefaceeed141d0ce41022b9791d4995",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\GroupBatchNumber__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\GroupBatchNumber__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 713,
+            "modifiedTime": 1526031769430,
+            "changeTime": 1526031769430,
+            "contentHash": "42f25e25439aecac034233c7de748ab600d78d36",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\IsCertifiedSite__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\IsCertifiedSite__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 447,
+            "modifiedTime": 1526031769431,
+            "changeTime": 1526031769431,
+            "contentHash": "1b78ca1868f750b1925f9bab45684bc9ecd2feb6",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\IsClosedOnCreate.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\IsClosedOnCreate.field-meta.xml",
+            "isDirectory": false,
+            "size": 285,
+            "modifiedTime": 1526031769431,
+            "changeTime": 1526031769431,
+            "contentHash": "21baae67ca402c56c0674251eddd1af83226204f",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\IsEscalated.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\IsEscalated.field-meta.xml",
+            "isDirectory": false,
+            "size": 280,
+            "modifiedTime": 1526031769432,
+            "changeTime": 1526031769432,
+            "contentHash": "bc7a6a865469734e57ad9a13ae58771692a5385c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\IsStopped.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\IsStopped.field-meta.xml",
+            "isDirectory": false,
+            "size": 278,
+            "modifiedTime": 1526031769432,
+            "changeTime": 1526031769432,
+            "contentHash": "3accaf5903cb1575c3101fb8fef70f926686a209",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\MilestoneStatus.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\MilestoneStatus.field-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1526031769432,
+            "changeTime": 1526031769432,
+            "contentHash": "27c5421959f44d7247177a579f2b7ff7444198ef",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\MilestoneStatusIcon.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\MilestoneStatusIcon.field-meta.xml",
+            "isDirectory": false,
+            "size": 202,
+            "modifiedTime": 1526031769433,
+            "changeTime": 1526031769433,
+            "contentHash": "3e83867feb577f875dceee1cfe8146104e8cd12b",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Origin.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Origin.field-meta.xml",
+            "isDirectory": false,
+            "size": 300,
+            "modifiedTime": 1526031769433,
+            "changeTime": 1526031769433,
+            "contentHash": "466828d12b34c82494a38d19b97155a143c0fcd1",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\OwnerId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "size": 298,
+            "modifiedTime": 1526031769434,
+            "changeTime": 1526031769434,
+            "contentHash": "8bf4dd5f362fa840760f76404520e1aab07d097f",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ParentId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ParentId.field-meta.xml",
+            "isDirectory": false,
+            "size": 588,
+            "modifiedTime": 1526031769436,
+            "changeTime": 1526031769436,
+            "contentHash": "020c269773a5a0464777266f9b9cad146c1b045b",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Patient__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Patient__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 738,
+            "modifiedTime": 1526031769437,
+            "changeTime": 1526031769437,
+            "contentHash": "43e90edb2ff1c74bce28e01d5ea516b61463d4e0",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\PickupCourierNumber__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\PickupCourierNumber__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 714,
+            "modifiedTime": 1526031769437,
+            "changeTime": 1526031769437,
+            "contentHash": "d58c6c1d77bb943e1e06207362e42b0d3696f3c0",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\PRFApprovedDate__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\PRFApprovedDate__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 747,
+            "modifiedTime": 1526031769434,
+            "changeTime": 1526031769434,
+            "contentHash": "940eb584fa35b5f0bb1f601457596958b3b35806",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\PRFSubmittedDate__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\PRFSubmittedDate__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 750,
+            "modifiedTime": 1526031769434,
+            "changeTime": 1526031769434,
+            "contentHash": "7209ea117ee79ef64cc40905ae6e40659fe6b466",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\PRF_RejectedDate__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\PRF_RejectedDate__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 676,
+            "modifiedTime": 1526031769435,
+            "changeTime": 1526031769435,
+            "contentHash": "5c732713d495b3f1ae6cc0de6299ef6fe84a153a",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\PRF_StatusFlag__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\PRF_StatusFlag__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 693,
+            "modifiedTime": 1526031769435,
+            "changeTime": 1526031769435,
+            "contentHash": "ecba6cef02de3091726d1ace2abfe8ae87e23090",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\PRF_Status__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\PRF_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 567,
+            "modifiedTime": 1526031769436,
+            "changeTime": 1526031769436,
+            "contentHash": "d17e47353445ec14bfa718d518024feb49c6d63c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Priority.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Priority.field-meta.xml",
+            "isDirectory": false,
+            "size": 301,
+            "modifiedTime": 1526031769438,
+            "changeTime": 1526031769438,
+            "contentHash": "edc14af69ad27904deb957f9b3df3617e58416fa",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ProcessOrderPrimary__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ProcessOrderPrimary__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 719,
+            "modifiedTime": 1526031769438,
+            "changeTime": 1526031769438,
+            "contentHash": "5c662c4f8150d0a401ae097598a2135c618214c1",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ProductId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\ProductId.field-meta.xml",
+            "isDirectory": false,
+            "size": 302,
+            "modifiedTime": 1526031769439,
+            "changeTime": 1526031769439,
+            "contentHash": "023afbad67147be7e53e2cda404a71c8a175ba05",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\PurchaseOrder__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\PurchaseOrder__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 706,
+            "modifiedTime": 1526031769439,
+            "changeTime": 1526031769439,
+            "contentHash": "18010a6f3a8617f51e9865149eaff9ead3fab221",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Purpose__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Purpose__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 583,
+            "modifiedTime": 1526031769440,
+            "changeTime": 1526031769440,
+            "contentHash": "cdc2e907d723cb670e23d517a2a61f04c4716ca1",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Reason.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Reason.field-meta.xml",
+            "isDirectory": false,
+            "size": 300,
+            "modifiedTime": 1526031769440,
+            "changeTime": 1526031769440,
+            "contentHash": "a763bd0d52e5d35afe0c9d4f2f02beeb2ae2cdec",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\SalesOrderNumber__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\SalesOrderNumber__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 713,
+            "modifiedTime": 1526031769441,
+            "changeTime": 1526031769441,
+            "contentHash": "afa4e671396c3b3ce0d2e4d34ce1ab041e547521",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Site__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Site__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 585,
+            "modifiedTime": 1526031769441,
+            "changeTime": 1526031769441,
+            "contentHash": "e8976789af3f8f4b4adce933ba056b177f4fdf2d",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\SlaExitDate.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\SlaExitDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 194,
+            "modifiedTime": 1526031769442,
+            "changeTime": 1526031769442,
+            "contentHash": "4131a9454da13710208e8ac7fb2438ac9ec70709",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\SlaStartDate.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\SlaStartDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 281,
+            "modifiedTime": 1526031769442,
+            "changeTime": 1526031769442,
+            "contentHash": "ba273439479b2e84486150fc944871cb63e62433",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\SourceId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\SourceId.field-meta.xml",
+            "isDirectory": false,
+            "size": 301,
+            "modifiedTime": 1526031769442,
+            "changeTime": 1526031769442,
+            "contentHash": "fbde652402e6fd8da85aa561ee3b30c4fa3fc823",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Status.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Status.field-meta.xml",
+            "isDirectory": false,
+            "size": 300,
+            "modifiedTime": 1526031769443,
+            "changeTime": 1526031769443,
+            "contentHash": "a7d63c48480eaae5b549a615ba958f2d5b193454",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\StatusGlobal__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\StatusGlobal__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 914,
+            "modifiedTime": 1526031769443,
+            "changeTime": 1526031769443,
+            "contentHash": "d46341cdb4000847c79127f1674806919eb65d6f",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Status_Apheresis_Pickup__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Status_Apheresis_Pickup__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 2261,
+            "modifiedTime": 1526031769444,
+            "changeTime": 1526031769444,
+            "contentHash": "17d70c1d5a0eda6a84581c42157c0d47ef4d4ba4",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Status_Apheresis_Procedure__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Status_Apheresis_Procedure__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1353,
+            "modifiedTime": 1526031769445,
+            "changeTime": 1526031769445,
+            "contentHash": "1fa7de7fae3554dece15b48efc4e923c5b2ccb8c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Status_Cell_Processing__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Status_Cell_Processing__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 2475,
+            "modifiedTime": 1526031769446,
+            "changeTime": 1526031769446,
+            "contentHash": "31b3a41b229578e1a6b949dbae90c3c19226ca1b",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Status_Finished_Product_Delivery__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Status_Finished_Product_Delivery__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 3515,
+            "modifiedTime": 1526031769446,
+            "changeTime": 1526031769446,
+            "contentHash": "c5e597abe2a643fd4060c508ea0ff4c60510e1ca",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Status_Overall_Infusion__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Status_Overall_Infusion__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1527,
+            "modifiedTime": 1526031769447,
+            "changeTime": 1526031769447,
+            "contentHash": "b13256b951fbf4eacf5fff71d93be3220fcf3810",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Status_Overall_Treatment__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Status_Overall_Treatment__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1071,
+            "modifiedTime": 1526031769447,
+            "changeTime": 1526031769447,
+            "contentHash": "ed838d5c550de580255772e5edb98fab72913d8a",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Status_Plant_Appointment__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Status_Plant_Appointment__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 2321,
+            "modifiedTime": 1526031769448,
+            "changeTime": 1526031769448,
+            "contentHash": "f76c484241cd83e24d780a87f0bdb9411359302c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\StopStartDate.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\StopStartDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1526031769448,
+            "changeTime": 1526031769448,
+            "contentHash": "a2708be407b028aad6e2187b967337d14e1aeecb",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Subject.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Subject.field-meta.xml",
+            "isDirectory": false,
+            "size": 522,
+            "modifiedTime": 1526031769449,
+            "changeTime": 1526031769449,
+            "contentHash": "1a96917b52e0067686804e2ec3b398bd415bccc6",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedCompany.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedCompany.field-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1526031769449,
+            "changeTime": 1526031769449,
+            "contentHash": "ece181df0735ab5b60d17ce0fa34ce0e0bad9655",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedEmail.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedEmail.field-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1526031769450,
+            "changeTime": 1526031769450,
+            "contentHash": "d73c198c3d9e3912ea6ae1e6aea28f706788d82c",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedName.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedName.field-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1526031769450,
+            "changeTime": 1526031769450,
+            "contentHash": "8af01561b28ae55a29763cb091f17893c89b57de",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedPhone.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedPhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1526031769450,
+            "changeTime": 1526031769450,
+            "contentHash": "70cdca272459306af548bec050c6d2a2fff713e1",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\TreatmentKey__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\TreatmentKey__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 768,
+            "modifiedTime": 1526031769451,
+            "changeTime": 1526031769451,
+            "contentHash": "02e6162e069f9d59a852a45bb0eaac2b0514bc89",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Type.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\fields\\Type.field-meta.xml",
+            "isDirectory": false,
+            "size": 298,
+            "modifiedTime": 1526031769452,
+            "changeTime": 1526031769452,
+            "contentHash": "6cba81d43fa842e8b9303ab2a3e8baace3a497c3",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\listViews",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150876,
+            "changeTime": 1526031769456,
+            "contentHash": "38e3252a66c9127029cbecc7d5f22ad287ed4c81",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\listViews\\AllOpenCases.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\listViews\\AllOpenCases.listView-meta.xml",
+            "isDirectory": false,
+            "size": 352,
+            "modifiedTime": 1526031769452,
+            "changeTime": 1526031769452,
+            "contentHash": "da412fa7b5556506b4bf8d4b376073ed839995a2",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\listViews\\All_Open_Patient_Services.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\listViews\\All_Open_Patient_Services.listView-meta.xml",
+            "isDirectory": false,
+            "size": 765,
+            "modifiedTime": 1526031769453,
+            "changeTime": 1526031769453,
+            "contentHash": "03c62b225f250f9ca78b5c2542439b59b0ac126f",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\listViews\\ApproverQueueADF_Case.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\listViews\\ApproverQueueADF_Case.listView-meta.xml",
+            "isDirectory": false,
+            "size": 327,
+            "modifiedTime": 1526031769453,
+            "changeTime": 1526031769453,
+            "contentHash": "0e9dbbff52633c183783ad29bdafae81c9b21e44",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\listViews\\ApproverQueuePRF_Case.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\listViews\\ApproverQueuePRF_Case.listView-meta.xml",
+            "isDirectory": false,
+            "size": 327,
+            "modifiedTime": 1526031769454,
+            "changeTime": 1526031769454,
+            "contentHash": "d64b0dbda2d21c8e3c2a1ec9be20d47a4d88d5e3",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\listViews\\EUKymrah_Case.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\listViews\\EUKymrah_Case.listView-meta.xml",
+            "isDirectory": false,
+            "size": 305,
+            "modifiedTime": 1526031769454,
+            "changeTime": 1526031769454,
+            "contentHash": "6b8107c99fd25370779f2cfdc2e54dd2f2086e0e",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\listViews\\MyCases.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\listViews\\MyCases.listView-meta.xml",
+            "isDirectory": false,
+            "size": 207,
+            "modifiedTime": 1526031769455,
+            "changeTime": 1526031769455,
+            "contentHash": "65cf6a5a61517566ef561ef5974dab55b84dbd97",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\listViews\\MyOpenCases.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\listViews\\MyOpenCases.listView-meta.xml",
+            "isDirectory": false,
+            "size": 344,
+            "modifiedTime": 1526031769455,
+            "changeTime": 1526031769455,
+            "contentHash": "4f2c6a73b746b58ea277fcfb3336e84499d2f439",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\listViews\\USKymrah_Case.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\listViews\\USKymrah_Case.listView-meta.xml",
+            "isDirectory": false,
+            "size": 305,
+            "modifiedTime": 1526031769455,
+            "changeTime": 1526031769455,
+            "contentHash": "504962f9b76f3f5ac37a43fa2bcd3a20e9a7b155",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\listViews\\US_Patient_Services_Case.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\listViews\\US_Patient_Services_Case.listView-meta.xml",
+            "isDirectory": false,
+            "size": 336,
+            "modifiedTime": 1526031769456,
+            "changeTime": 1526031769456,
+            "contentHash": "ab332afe80ca9185b2aa3be09b7d1e47d35bac16",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\recordTypes",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\recordTypes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150887,
+            "changeTime": 1526031769467,
+            "contentHash": "d1bbe4b0b4cccea96cb138dabd63533efcbf80eb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\recordTypes\\OBC.recordType-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\recordTypes\\OBC.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 19390,
+            "modifiedTime": 1526031769458,
+            "changeTime": 1526031769458,
+            "contentHash": "5ba7b380dfcc502149521340fe0fe9278a01b88f",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\recordTypes\\Patient_Services.recordType-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\recordTypes\\Patient_Services.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 19376,
+            "modifiedTime": 1526031769460,
+            "changeTime": 1526031769460,
+            "contentHash": "f278a044788e6b537ed1144073bfda0dc56cf339",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\recordTypes\\ProgramEnrollment.recordType-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\recordTypes\\ProgramEnrollment.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 19328,
+            "modifiedTime": 1526031769464,
+            "changeTime": 1526031769464,
+            "contentHash": "18b851e4575aebc8174d3507b3d68f09515f82e1",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\recordTypes\\Treatment.recordType-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Case\\recordTypes\\Treatment.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 19663,
+            "modifiedTime": 1526031769467,
+            "changeTime": 1526031769467,
+            "contentHash": "a47f388204dd027a8e527d000983affdc2512f18",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150949,
+            "changeTime": 1526031769530,
+            "contentHash": "982ee1df2fd09f686e78d0e80d127373c142727c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\Contact.object-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\Contact.object-meta.xml",
+            "isDirectory": false,
+            "size": 4923,
+            "modifiedTime": 1526033150935,
+            "changeTime": 1526031769515,
+            "contentHash": "0f0769967226808dd0ee419ec74d7c919f35379b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150947,
+            "changeTime": 1526031769528,
+            "contentHash": "fa454e575956547e89f19d7f9df2b31d4ae2eaa2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\AccountId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\AccountId.field-meta.xml",
+            "isDirectory": false,
+            "size": 221,
+            "modifiedTime": 1526033150936,
+            "changeTime": 1526031769516,
+            "contentHash": "a5c3f07ba3a348335908401256dd2d9998990fcf",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantName.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantName.field-meta.xml",
+            "isDirectory": false,
+            "size": 449,
+            "modifiedTime": 1526033150937,
+            "changeTime": 1526031769517,
+            "contentHash": "78dcaf72e2b7bdc1208f09e1cca160d48732389c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantPhone.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\AssistantPhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 450,
+            "modifiedTime": 1526033150937,
+            "changeTime": 1526031769518,
+            "contentHash": "058282687f12b33b9c389ca96f57f4e08bcefeb1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\Birthdate.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\Birthdate.field-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1526033150938,
+            "changeTime": 1526031769518,
+            "contentHash": "104e9a00a8886c6a98a247cf4d799fca91cb5cf6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\Department.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\Department.field-meta.xml",
+            "isDirectory": false,
+            "size": 199,
+            "modifiedTime": 1526033150939,
+            "changeTime": 1526031769519,
+            "contentHash": "3b56db2ab17440e863bd220f7b949c6666a8aa21",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\Description.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\Description.field-meta.xml",
+            "isDirectory": false,
+            "size": 447,
+            "modifiedTime": 1526033150939,
+            "changeTime": 1526031769520,
+            "contentHash": "4dd0081835cbf39579a6eb2fa51dbbe065463b90",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\DoNotCall.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\DoNotCall.field-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1526033150940,
+            "changeTime": 1526031769520,
+            "contentHash": "a69a1b0e3f0e15fe44c968e2d0c859d8a264cb1a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\Email.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\Email.field-meta.xml",
+            "isDirectory": false,
+            "size": 441,
+            "modifiedTime": 1526033150940,
+            "changeTime": 1526031769521,
+            "contentHash": "03f1bd4e3e78f3aff1ab7ac6da81cca819b26a5e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\Fax.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\Fax.field-meta.xml",
+            "isDirectory": false,
+            "size": 439,
+            "modifiedTime": 1526033150941,
+            "changeTime": 1526031769521,
+            "contentHash": "e0f8386ccfe92a434c29418751e4f79085f809b6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfEmail.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfEmail.field-meta.xml",
+            "isDirectory": false,
+            "size": 207,
+            "modifiedTime": 1526033150941,
+            "changeTime": 1526031769522,
+            "contentHash": "ff5f1905a424ffb80a86c672ce8a2484010686e7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfFax.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\HasOptedOutOfFax.field-meta.xml",
+            "isDirectory": false,
+            "size": 205,
+            "modifiedTime": 1526033150942,
+            "changeTime": 1526031769522,
+            "contentHash": "8436af1a1e25d1251260bd40b57c3d17b97ff22d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\HomePhone.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\HomePhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 445,
+            "modifiedTime": 1526033150942,
+            "changeTime": 1526031769523,
+            "contentHash": "2f9a347b57cfb3ac79aec9dbd6e921ed778d2b60",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\Jigsaw.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\Jigsaw.field-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1526033150943,
+            "changeTime": 1526031769523,
+            "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\LastCURequestDate.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\LastCURequestDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 159,
+            "modifiedTime": 1526033150943,
+            "changeTime": 1526031769524,
+            "contentHash": "dda4a3e4f235d3020ac7ec9ecad60f97db34e5ff",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\LastCUUpdateDate.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\LastCUUpdateDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 158,
+            "modifiedTime": 1526033150943,
+            "changeTime": 1526031769524,
+            "contentHash": "831121050c56f562af9389f75edae3a5ab0351f1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\LeadSource.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\LeadSource.field-meta.xml",
+            "isDirectory": false,
+            "size": 225,
+            "modifiedTime": 1526033150944,
+            "changeTime": 1526031769525,
+            "contentHash": "2edc10a4308166ada8b0fc2bece939fb3eea84b8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\MailingAddress.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\MailingAddress.field-meta.xml",
+            "isDirectory": false,
+            "size": 450,
+            "modifiedTime": 1526033150944,
+            "changeTime": 1526031769525,
+            "contentHash": "270a09b33ebb396bcce78a5de7a739ad40644dd0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\MobilePhone.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\MobilePhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 447,
+            "modifiedTime": 1526033150945,
+            "changeTime": 1526031769526,
+            "contentHash": "6b881c14dc42a21001143c7dadf7594253de6694",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\Name.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\Name.field-meta.xml",
+            "isDirectory": false,
+            "size": 439,
+            "modifiedTime": 1526033150945,
+            "changeTime": 1526031769526,
+            "contentHash": "796188af37ae6d4d36b51d6701b19d36aa4f846f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\OtherAddress.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\OtherAddress.field-meta.xml",
+            "isDirectory": false,
+            "size": 448,
+            "modifiedTime": 1526033150945,
+            "changeTime": 1526031769526,
+            "contentHash": "f21575a4284b41b9fc0af15781e6e10d67ce4c96",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\OtherPhone.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\OtherPhone.field-meta.xml",
+            "isDirectory": false,
+            "size": 446,
+            "modifiedTime": 1526033150946,
+            "changeTime": 1526031769527,
+            "contentHash": "4153f196da90e9cc744fad8516803a460f12ace5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\OwnerId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1526033150946,
+            "changeTime": 1526031769527,
+            "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\Phone.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\Phone.field-meta.xml",
+            "isDirectory": false,
+            "size": 441,
+            "modifiedTime": 1526033150947,
+            "changeTime": 1526031769528,
+            "contentHash": "0cb18c8b3a30ef60aa13916c4a292cb5fd8de766",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\ReportsToId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\ReportsToId.field-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1526033150947,
+            "changeTime": 1526031769528,
+            "contentHash": "7252f1ae0d0fff985c8d3d75c2c66b704d304262",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\Title.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\fields\\Title.field-meta.xml",
+            "isDirectory": false,
+            "size": 441,
+            "modifiedTime": 1526033150948,
+            "changeTime": 1526031769528,
+            "contentHash": "c7be436e88f01173c1f792bbfa3a0bc3fffd8488",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\listViews",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150949,
+            "changeTime": 1526031769530,
+            "contentHash": "d7cf73f8ecd2fce5aa476b3ee17e362034d9a1a4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\listViews\\AllContacts.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\listViews\\AllContacts.listView-meta.xml",
+            "isDirectory": false,
+            "size": 473,
+            "modifiedTime": 1526033150948,
+            "changeTime": 1526031769529,
+            "contentHash": "b2ea5b78ba2ec0bb8fc97da0be002b5e37090fb4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\listViews\\BirthdaysThisMonth.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\listViews\\BirthdaysThisMonth.listView-meta.xml",
+            "isDirectory": false,
+            "size": 640,
+            "modifiedTime": 1526033150949,
+            "changeTime": 1526031769529,
+            "contentHash": "6125017f30f6930c899842865e8051b54d9f6002",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\listViews\\NewThisWeek.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\listViews\\NewThisWeek.listView-meta.xml",
+            "isDirectory": false,
+            "size": 587,
+            "modifiedTime": 1526033150949,
+            "changeTime": 1526031769530,
+            "contentHash": "7e228c2ac1e376253815678c621a82e55e083300",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\webLinks",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\webLinks",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150957,
+            "changeTime": 1526031769537,
+            "contentHash": "7750aee5a3325d6e4ee4a8e0aa3350bf9e94cb9f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\webLinks\\GoogleMaps.webLink-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\webLinks\\GoogleMaps.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 820,
+            "modifiedTime": 1526033150950,
+            "changeTime": 1526031769531,
+            "contentHash": "7178433d76d823136fa73fdfa4a29523bcbbee43",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\webLinks\\GoogleSearch.webLink-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\webLinks\\GoogleSearch.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 767,
+            "modifiedTime": 1526033150950,
+            "changeTime": 1526031769531,
+            "contentHash": "0789dd4be23e51cefb327f3ba93c85e80e653c75",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\webLinks\\SDOC__Add_to_Mass_Merge_List.webLink-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\webLinks\\SDOC__Add_to_Mass_Merge_List.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 2616,
+            "modifiedTime": 1526033150951,
+            "changeTime": 1526031769531,
+            "contentHash": "7cbf43885be4a4f00a9afa413c48bac13cb16c81",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\webLinks\\SDOC__Email_Docs.webLink-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\webLinks\\SDOC__Email_Docs.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 500,
+            "modifiedTime": 1526033150951,
+            "changeTime": 1526031769532,
+            "contentHash": "fcf7d15643245f6407275bfcea2101b3eb558bb9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\webLinks\\SDOC__S_Docs.webLink-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\webLinks\\SDOC__S_Docs.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 492,
+            "modifiedTime": 1526033150952,
+            "changeTime": 1526031769532,
+            "contentHash": "b53e15071d1a56bddea613f0cc2b49e521e29047",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\webLinks\\SDOC__View_Mass_Merge_List.webLink-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\webLinks\\SDOC__View_Mass_Merge_List.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 509,
+            "modifiedTime": 1526033150952,
+            "changeTime": 1526031769533,
+            "contentHash": "1216ac1131263e9b564fe82fb503e8425ddc6ea4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\webLinks\\SendGmail.webLink-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\webLinks\\SendGmail.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 814,
+            "modifiedTime": 1526033150955,
+            "changeTime": 1526031769533,
+            "contentHash": "b93c73f967fd32fc192350f61e32566635415081",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\webLinks\\YahooMaps.webLink-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\webLinks\\YahooMaps.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 868,
+            "modifiedTime": 1526033150956,
+            "changeTime": 1526031769534,
+            "contentHash": "95841399fb6fd4b3295528fcf9e81117920ad95e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\webLinks\\YahooWeather.webLink-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Contact\\webLinks\\YahooWeather.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 768,
+            "modifiedTime": 1526033150957,
+            "changeTime": 1526031769537,
+            "contentHash": "0cff2e593a810d2ac20fb466a31192759e77a78f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\NotificationSetting__mdt",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\NotificationSetting__mdt",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150975,
+            "changeTime": 1526031769555,
+            "contentHash": "15364b7911248be7e6202fe93424bd5a8a53c675",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\NotificationSetting__mdt\\fields",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\NotificationSetting__mdt\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150978,
+            "changeTime": 1526031769558,
+            "contentHash": "7885b64e79155aea8638b8939657535b1688f86a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\NotificationSetting__mdt\\fields\\EventKey__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\NotificationSetting__mdt\\fields\\EventKey__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 634,
+            "modifiedTime": 1526033150976,
+            "changeTime": 1526031769555,
+            "contentHash": "b58d7dfe04f2103b5816d1e5076ee8eb54691dbd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\NotificationSetting__mdt\\fields\\Notifications__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\NotificationSetting__mdt\\fields\\Notifications__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 595,
+            "modifiedTime": 1526033150976,
+            "changeTime": 1526031769556,
+            "contentHash": "1aa5099b3434b70d9a632510006ea369323e51ab",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\NotificationSetting__mdt\\fields\\ObjectType__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\NotificationSetting__mdt\\fields\\ObjectType__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 640,
+            "modifiedTime": 1526033150977,
+            "changeTime": 1526031769557,
+            "contentHash": "1dabeb28490f20fa951d0eaaf6ece17479434468",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\NotificationSetting__mdt\\fields\\RecipientExceptions__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\NotificationSetting__mdt\\fields\\RecipientExceptions__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 775,
+            "modifiedTime": 1526033150978,
+            "changeTime": 1526031769557,
+            "contentHash": "b2da41de92fbe364eb6f9fff27a6bfa78f13ae40",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\NotificationSetting__mdt\\fields\\Recipients__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\NotificationSetting__mdt\\fields\\Recipients__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 624,
+            "modifiedTime": 1526033150978,
+            "changeTime": 1526031769558,
+            "contentHash": "f6a35682aa368d8c424e6b84b542469b8055ff01",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\NotificationSetting__mdt\\NotificationSetting__mdt.object-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\NotificationSetting__mdt\\NotificationSetting__mdt.object-meta.xml",
+            "isDirectory": false,
+            "size": 237,
+            "modifiedTime": 1526033150975,
+            "changeTime": 1526031769554,
+            "contentHash": "6b5fa983457747f2ff6606ac624af6e754913e70",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1525974780747,
+            "changeTime": 1525974780747,
+            "contentHash": "e75fb13d89aecc52d752b2c85a07453661645c97",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\queues",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\queues",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033151050,
+            "changeTime": 1526032551524,
+            "contentHash": "331e1da6768b4597ebc50be956c7d94bb24910d7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033151002,
+            "changeTime": 1526032551476,
+            "contentHash": "db9b7dbeea68ddb83a51dadcc866e618804bd62e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033150998,
+            "changeTime": 1526032551473,
+            "contentHash": "5f2acdd497b99f616a8c8821383cf699d890f199",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\listViews",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033151001,
+            "changeTime": 1526032551476,
+            "contentHash": "32f01396ba5506af788fae0afd84a0eb14ae83dd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\webLinks",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\webLinks",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033151002,
+            "changeTime": 1526032551477,
+            "contentHash": "850b60abe49801faa7213cd6fbebf4fb2f42df0c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033151029,
+            "changeTime": 1526032551503,
+            "contentHash": "2b8023c0fbe8640769858f8bbe4b677a477ef863",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\fields",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033151028,
+            "changeTime": 1526032551502,
+            "contentHash": "3dec7d1647c72b1bd6530cd0dcdfba4f2d356ceb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\listViews",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033151029,
+            "changeTime": 1526032551502,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\recordTypes",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\recordTypes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033151029,
+            "changeTime": 1526032551503,
+            "contentHash": "a99bb6aef84967e86cddbab156d3055c729db783",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Purpose__c",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Purpose__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033151042,
+            "changeTime": 1526032551516,
+            "contentHash": "c215946b88b88867215aa078fa4fe0d55e158f2d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Purpose__c\\fields",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Purpose__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033151042,
+            "changeTime": 1526032551516,
+            "contentHash": "6d4721632b00fa9d3cd43be62efba0f73e362e15",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Purpose__c\\listViews",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Purpose__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526033151043,
+            "changeTime": 1526032551516,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\queues\\EUKymrah.queue-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\queues\\EUKymrah.queue-meta.xml",
+            "isDirectory": false,
+            "size": 272,
+            "modifiedTime": 1526033151048,
+            "changeTime": 1526032551522,
+            "contentHash": "58f78c6598aba86ee75d7f1f6699c6c04ffaeced",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\AccountId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\AccountId.field-meta.xml",
+            "isDirectory": false,
+            "size": 263,
+            "modifiedTime": 1526033150990,
+            "changeTime": 1526032551465,
+            "contentHash": "ddead8196b7c0d8801a4c4bed2df0350671bfdc9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\Amount.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\Amount.field-meta.xml",
+            "isDirectory": false,
+            "size": 235,
+            "modifiedTime": 1526033150991,
+            "changeTime": 1526032551465,
+            "contentHash": "6b047905b443336cbd4b456b7a9b5710a8ef1322",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\CampaignId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\CampaignId.field-meta.xml",
+            "isDirectory": false,
+            "size": 264,
+            "modifiedTime": 1526033150991,
+            "changeTime": 1526032551466,
+            "contentHash": "191443ccf3cbba59279c7d49bf01214ea1a7e126",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\CloseDate.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\CloseDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 238,
+            "modifiedTime": 1526033150992,
+            "changeTime": 1526032551466,
+            "contentHash": "f221ca916214fcd9dbc1aa44904a6238859fa72c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\ContractId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\ContractId.field-meta.xml",
+            "isDirectory": false,
+            "size": 264,
+            "modifiedTime": 1526033150992,
+            "changeTime": 1526032551467,
+            "contentHash": "fc50b01b7ef9c40a27e44c3dc5d045d44480ba29",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\Description.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\Description.field-meta.xml",
+            "isDirectory": false,
+            "size": 488,
+            "modifiedTime": 1526033150994,
+            "changeTime": 1526032551467,
+            "contentHash": "6ed80eb65567097b752c3a96170634161610528c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\ExpectedRevenue.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\ExpectedRevenue.field-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1526033150994,
+            "changeTime": 1526032551468,
+            "contentHash": "283266ae9750053442bbc4eb4bd7f2c127e2ca06",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\IqScore.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\IqScore.field-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1526033150994,
+            "changeTime": 1526032551468,
+            "contentHash": "ef86ca1575d71d6f8bb7c0163b84d0ef2d85ff0b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\IsPrivate.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\IsPrivate.field-meta.xml",
+            "isDirectory": false,
+            "size": 239,
+            "modifiedTime": 1526033150994,
+            "changeTime": 1526032551469,
+            "contentHash": "d0db908a59ce86178ed22e786980e8dcadb4c0e3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\LeadSource.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\LeadSource.field-meta.xml",
+            "isDirectory": false,
+            "size": 266,
+            "modifiedTime": 1526033150995,
+            "changeTime": 1526032551469,
+            "contentHash": "ac5c4a94f4c5f9bd38d5c1d14aae2b54a9c5a81c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\Name.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\Name.field-meta.xml",
+            "isDirectory": false,
+            "size": 480,
+            "modifiedTime": 1526033150995,
+            "changeTime": 1526032551470,
+            "contentHash": "c6d462702bbce8c759949427b912a72d7ec4483d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\NextStep.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\NextStep.field-meta.xml",
+            "isDirectory": false,
+            "size": 485,
+            "modifiedTime": 1526033150996,
+            "changeTime": 1526032551470,
+            "contentHash": "681504ddbd7ac325bb45cb808fab7406cf827973",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\OwnerId.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "size": 260,
+            "modifiedTime": 1526033150996,
+            "changeTime": 1526032551471,
+            "contentHash": "3fcc4be59ff087e527b687e721d8811e92c33e62",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\Pricebook2Id.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\Pricebook2Id.field-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1526033150996,
+            "changeTime": 1526032551471,
+            "contentHash": "6073cd45908669eb1d6de72919f5d8c1f5d2f5cf",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\Probability.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\Probability.field-meta.xml",
+            "isDirectory": false,
+            "size": 241,
+            "modifiedTime": 1526033150997,
+            "changeTime": 1526032551472,
+            "contentHash": "707fdee35ab4b79a69c635443db77c70948a5910",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\StageName.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\StageName.field-meta.xml",
+            "isDirectory": false,
+            "size": 264,
+            "modifiedTime": 1526033150997,
+            "changeTime": 1526032551472,
+            "contentHash": "cc69df14543885c7f3b123dc0ca9bf36d5cccae3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\TotalOpportunityQuantity.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\TotalOpportunityQuantity.field-meta.xml",
+            "isDirectory": false,
+            "size": 254,
+            "modifiedTime": 1526033150998,
+            "changeTime": 1526032551472,
+            "contentHash": "b32b34c36eedceeb68877bf7527e493bee0eb943",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\Type.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\fields\\Type.field-meta.xml",
+            "isDirectory": false,
+            "size": 260,
+            "modifiedTime": 1526033150998,
+            "changeTime": 1526032551473,
+            "contentHash": "2ccbfa9b889937d3f267d8553b18ee9d565af57f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\listViews\\AllOpportunities.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\listViews\\AllOpportunities.listView-meta.xml",
+            "isDirectory": false,
+            "size": 231,
+            "modifiedTime": 1526033150999,
+            "changeTime": 1526032551473,
+            "contentHash": "20f2a33f2464528dc6c5c089c8a952060bc0f54a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\listViews\\ClosingNextMonth.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\listViews\\ClosingNextMonth.listView-meta.xml",
+            "isDirectory": false,
+            "size": 513,
+            "modifiedTime": 1526033150999,
+            "changeTime": 1526032551474,
+            "contentHash": "f0383c008c94343de15cdc98da97742742b5caf9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\listViews\\ClosingThisMonth.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\listViews\\ClosingThisMonth.listView-meta.xml",
+            "isDirectory": false,
+            "size": 513,
+            "modifiedTime": 1526033150999,
+            "changeTime": 1526032551474,
+            "contentHash": "1794a9b10f43de449b63303697f638fc8e871fb8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\listViews\\Default_Opportunity_Pipeline.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\listViews\\Default_Opportunity_Pipeline.listView-meta.xml",
+            "isDirectory": false,
+            "size": 400,
+            "modifiedTime": 1526033151000,
+            "changeTime": 1526032551475,
+            "contentHash": "8685d5a6347d01b4786db45bf82afc9b02473c20",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\listViews\\MyOpportunities.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\listViews\\MyOpportunities.listView-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1526033151000,
+            "changeTime": 1526032551475,
+            "contentHash": "68e0b304bb7dee4933c9a05817ce5af6e6085adb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\listViews\\NewThisWeek.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\listViews\\NewThisWeek.listView-meta.xml",
+            "isDirectory": false,
+            "size": 370,
+            "modifiedTime": 1526033151001,
+            "changeTime": 1526032551476,
+            "contentHash": "0a5de62c34900aaeb2787bb16111ddd9675bf864",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\listViews\\Won.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\listViews\\Won.listView-meta.xml",
+            "isDirectory": false,
+            "size": 469,
+            "modifiedTime": 1526033151001,
+            "changeTime": 1526032551476,
+            "contentHash": "7b5582815a6d63f15083edd2ae2b45bcf47c61b8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\Opportunity.object-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\Opportunity.object-meta.xml",
+            "isDirectory": false,
+            "size": 2875,
+            "modifiedTime": 1526033150989,
+            "changeTime": 1526032551464,
+            "contentHash": "805764d3c50fd2008ab850ec2ece7e44b966e3d3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\webLinks\\SDOC__Email_Docs.webLink-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\webLinks\\SDOC__Email_Docs.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 508,
+            "modifiedTime": 1526033151002,
+            "changeTime": 1526032551477,
+            "contentHash": "345aaf90cef7cc661e062888b710e2b6a7a858b7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\webLinks\\SDOC__S_Docs.webLink-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Opportunity\\webLinks\\SDOC__S_Docs.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 500,
+            "modifiedTime": 1526033151003,
+            "changeTime": 1526032551477,
+            "contentHash": "383ec11bde9b8507cc569d1761038da41e9e5b96",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\fields\\BodyWeightInKg__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\fields\\BodyWeightInKg__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 642,
+            "modifiedTime": 1526033151024,
+            "changeTime": 1526032551497,
+            "contentHash": "48d2facf8615b6efa5138a4a8e6bb07914692b90",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\fields\\DateOfBirthText__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\fields\\DateOfBirthText__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 598,
+            "modifiedTime": 1526033151024,
+            "changeTime": 1526032551498,
+            "contentHash": "c096d983e403d1403a9ae35fb1ec9dd08be738da",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\fields\\DateOfBirth__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\fields\\DateOfBirth__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 776,
+            "modifiedTime": 1526033151025,
+            "changeTime": 1526032551498,
+            "contentHash": "cf4d397d601df02f5e6c477b746fea6279d63b2d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\fields\\FirstName__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\fields\\FirstName__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 762,
+            "modifiedTime": 1526033151026,
+            "changeTime": 1526032551499,
+            "contentHash": "f7ec240da4a7161cf6c297ab93be2aca0c09058a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\fields\\LastName__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\fields\\LastName__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 763,
+            "modifiedTime": 1526033151026,
+            "changeTime": 1526032551500,
+            "contentHash": "35661d3e3faa8cff79d38a029d820db0c8ba8bff",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\fields\\MiddleNameInitial__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\fields\\MiddleNameInitial__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 801,
+            "modifiedTime": 1526033151027,
+            "changeTime": 1526032551501,
+            "contentHash": "5df72805a756d2cca683e2c4a0b77062dc65447b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\fields\\PatientAccount__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\fields\\PatientAccount__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 554,
+            "modifiedTime": 1526033151027,
+            "changeTime": 1526032551501,
+            "contentHash": "7b3ff4f1dec7970a17332623b33da02c5e57fa69",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\fields\\PatientClassification__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\fields\\PatientClassification__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 930,
+            "modifiedTime": 1526033151028,
+            "changeTime": 1526032551502,
+            "contentHash": "e3706bca92d455daad69f808f56e07238c7b8cb2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1526033151029,
+            "changeTime": 1526032551503,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\Patient__c.object-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\Patient__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 4066,
+            "modifiedTime": 1526033151023,
+            "changeTime": 1526032551496,
+            "contentHash": "a3457501e2abbd1e291719b0521db3de9bdb465c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\recordTypes\\Patient.recordType-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Patient__c\\recordTypes\\Patient.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 575,
+            "modifiedTime": 1526033151029,
+            "changeTime": 1526032551503,
+            "contentHash": "2817ad7f813bbe8e873ded7a0a0f4dfb83908482",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Purpose__c\\fields\\ParentPurpose__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Purpose__c\\fields\\ParentPurpose__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 529,
+            "modifiedTime": 1526033151040,
+            "changeTime": 1526032551514,
+            "contentHash": "0cc1540a82777ebf638c46b6d4d890a50a8096af",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Purpose__c\\fields\\Practice__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Purpose__c\\fields\\Practice__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 817,
+            "modifiedTime": 1526033151041,
+            "changeTime": 1526032551515,
+            "contentHash": "f8e767f75e8b798966ee16e7e85f20f4aae2e1d7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Purpose__c\\fields\\PurposeCode__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Purpose__c\\fields\\PurposeCode__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 616,
+            "modifiedTime": 1526033151042,
+            "changeTime": 1526032551515,
+            "contentHash": "e56a55cdc203bb3a71eaf806ea674c72f6ac3c3d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Purpose__c\\fields\\Region__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Purpose__c\\fields\\Region__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1409,
+            "modifiedTime": 1526033151042,
+            "changeTime": 1526032551516,
+            "contentHash": "0bca092740ab85862bf099d35a37921c1b580bba",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Purpose__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Purpose__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1526033151043,
+            "changeTime": 1526032551516,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Purpose__c\\Purpose__c.object-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandbox\\force-app\\main\\default\\objects\\Purpose__c\\Purpose__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2312,
+            "modifiedTime": 1526033151040,
+            "changeTime": 1526032551514,
+            "contentHash": "de5035fe5b15925df2ed98440c74ddcc359e2d22",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ]
+]

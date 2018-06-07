@@ -1,0 +1,4 @@
+<aura:event type="COMPONENT" description="Event template">
+    <aura:attribute name="navigateAction" type="String" />
+    <aura:attribute name="recordId" type="Id" />
+</aura:event>

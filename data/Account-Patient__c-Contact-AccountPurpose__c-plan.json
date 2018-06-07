@@ -1,0 +1,66 @@
+[
+    {
+        "sobject": "Account",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Accounts.json"
+        ]
+    },
+	{
+        "sobject": "Contact",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "Contacts.json"
+        ]
+    },
+	{
+        "sobject": "Account",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "AccountChildren.json"
+        ]
+    },
+	{
+        "sobject": "Purpose__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Purpose__cs.json"
+        ]
+    },
+    {
+        "sobject": "AccountPurpose__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "AccountPurpose__cs.json"
+        ]
+    },
+	{
+        "sobject": "Patient__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "Patient__cs.json"
+        ]
+    },
+    {
+        "sobject": "Case",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "Case.json"
+        ]
+    },
+    {
+        "sobject": "Case",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "CaseChildren.json"
+        ]
+    }
+]

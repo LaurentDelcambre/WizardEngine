@@ -1,0 +1,9 @@
+{
+    "orgName": "Demo Company",
+    "edition": "Developer",
+    "features": ["Communities","CustomerSelfService","CustomApps","CustomTabs","ExternalSharing","PersonAccounts","LightningSalesConsole","LightningServiceConsole","ServiceCloud","Sites"],
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled","NetworksEnabled","ChatterEnabled","IsKnowledgeEnabled","IsEntitlementsEnabled","IsLiveAgentEnabled"],
+        "disabled": ["S1EncryptedStoragePref2"]
+    }
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "sobject": "Contact",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "Contacts.json"
+        ]
+    },
+    {
+        "sobject": "AccountPurpose__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "AccountPurpose__cs.json"
+        ]
+    },
+    {
+        "sobject": "Account",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "Accounts.json"
+        ]
+    }
+]

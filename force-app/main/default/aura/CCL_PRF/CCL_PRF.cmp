@@ -1,0 +1,51 @@
+<aura:component controller="CCL_PRFController" implements="force:appHostable,forceCommunity:availableForAllPageTypes" access="global" >
+	
+	<aura:attribute name="isPurposesiteCmpDisplayed" type="Boolean" default="true"/>
+	<aura:attribute name="isPatientCmpDisplayed" 	type="Boolean" default="false"/>
+	<aura:attribute name="isReviewSubmitDisplayed" type="Boolean" default="false"/>
+	<aura:attribute name="currentStep" type="String" default="1"/>
+	<aura:attribute name="recTypeId" type="Id" default="0123E000000H3TPQA0"/>
+	<aura:attribute name="patientFieldSets" type="String[]" access="private" />
+	<aura:attribute name="currentPatientIndex" type="Integer" default="0" access="private" />
+	<aura:attribute name="patientRecordId" type="Id" access="private" />
+	<aura:attribute name="caseRecordId" type="Id" access="private" />
+	
+  <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+  <aura:handler name="navigationEvent" event="c:CCL_PRF_NavigationEvent" action="{!c.handleNavigationEvent}"/>
+	<div class="c-container">
+		<lightning:card iconName="standard:account" title="Product Request Form" >
+			<lightning:layout multipleRows="true">
+				<lightning:layoutItem size="12" flexibility="auto" padding="around-small">
+		
+					<!-- Progress indicator -->
+					<lightning:progressIndicator currentStep="{!v.currentStep}" variant="shaded" title="PRF steps">
+						<lightning:progressStep label="Purpose/Site" value="1"/>
+						<lightning:progressStep label="Patient Information" value="2"/>
+						<lightning:progressStep label="Pickup Location" value="3"/>
+					</lightning:progressIndicator>
+
+				</lightning:layoutItem>
+				
+				<aura:if isTrue="{!v.isPurposesiteCmpDisplayed}">
+					<c:CCL_PRF_PurposeSite />
+				</aura:if>
+
+				<aura:if isTrue="{!v.isPatientCmpDisplayed}">
+					{!v.caseRecordId}
+					<aura:iteration items="{!v.patientFieldSets}" var="fieldsetName" indexVar="patientIndex">
+						<aura:if isTrue="{!patientIndex == v.currentPatientIndex}">
+							<c:CCL_DynamicFieldset aura:id="dyna" recordId="{!v.patientRecordId}" recordTypeId="{!v.recTypeId}" sObjectName="Patient__c" fieldSetName="{!fieldsetName}" />
+						</aura:if>
+					</aura:iteration>
+				</aura:if>
+
+				<aura:if isTrue="{!v.isReviewSubmitDisplayed}">
+					<c:CCL_ReviewSubmit aura:id="reviewSubmitCmp" recordId="{!v.patientRecordId}"/>
+				</aura:if>
+
+				
+
+      </lightning:layout>
+	</lightning:card>
+  </div>
+</aura:component>

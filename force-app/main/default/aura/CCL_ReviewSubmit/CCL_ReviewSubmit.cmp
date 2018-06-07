@@ -1,0 +1,17 @@
+<aura:component controller="CCL_DynamicFieldsetController" 
+                implements="force:appHostable,force:hasRecordId,force:hasSObjectName" >
+    
+
+    <aura:attribute name="recordId"     type="Id"  />
+    <lightning:recordViewForm  aura:id="recordEditForm"
+            objectApiName="Patient__c"
+            recordId="{! v.recordId }">
+        <div class="slds-box">
+            <lightning:outputField fieldName="DateOfBirth__c" />
+            <lightning:outputField fieldName="FirstName__c" />
+            <lightning:outputField fieldName="LastName__c" />
+            <lightning:outputField fieldName="PatientClassification__c" />
+            <lightning:outputField fieldName="BodyWeightInKg__c" />
+        </div>
+    </lightning:recordViewForm>
+</aura:component>	
