@@ -24,5 +24,4 @@
     <enableHistory>false</enableHistory>
     <label>Knowledge</label>
     <pluralLabel>Knowledge</pluralLabel>
-    <searchLayouts/>
 </CustomObject>

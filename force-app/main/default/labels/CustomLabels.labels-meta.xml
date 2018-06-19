@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>KymriahCommercial_EU_Logistics</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>KymriahCommercial_EU_Logistics</shortDescription>
+        <value>Description for Kymriah Commercial EU Logistics</value>
+    </labels>
+    <labels>
+        <fullName>KymriahCommercial_EU_Order</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>KymriahCommercial_EU_Order</shortDescription>
+        <value>Description for Kymriah Commercial EU Order</value>
+    </labels>
+    <labels>
+        <fullName>KymriahCommercial_EU_Patient</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>KymriahCommercial_EU_Patient</shortDescription>
+        <value>Description for Kymriah Commercial EU Patient</value>
+    </labels>
+    <labels>
+        <fullName>KymriahCommercial_EU_Patient_Extended_Attributes</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>KymriahCommercial_EU_Patient_Extended_Attributes</shortDescription>
+        <value>Description for Kymriah Commercial EU Patient Extended Attributes</value>
+    </labels>
+    <labels>
+        <fullName>KymriahCommercial_EU_Start</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>KymriahCommercial_EU_Start</shortDescription>
+        <value>Description of the step1 of Kymriah Commercial EU Wizard</value>
+    </labels>
+</CustomLabels>

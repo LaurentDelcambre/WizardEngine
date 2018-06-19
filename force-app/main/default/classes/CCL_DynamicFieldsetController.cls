@@ -9,6 +9,7 @@ public with sharing class CCL_DynamicFieldsetController{
         else if (String.isNotBlank(objectName)) {
             objectType = Schema.getGlobalDescribe().get(objectName);
         }
+        System.debug('fieldSetName: ' + fieldSetName);
         System.debug('objectType: ' + objectType);
         System.debug('objectType: ' + objectType.getDescribe());
         System.debug('objectType: ' + objectType.getDescribe().getLabel());

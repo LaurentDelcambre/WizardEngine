@@ -10,8 +10,9 @@
             
     <aura:registerEvent name="navigationEvent" type="c:CCL_PRF_NavigationEvent"/>
 
-    
-    <aura:handler name="init" value="{!this}" action="{!c.init}" />
+    <!-- Late Init -->
+    <!--<aura:method name="lateInit" action="{!c.init}" description="Late initialization" />-->
+    <aura:handler name="init" value="{!this}" action="{!c.init}" /> 
     <aura:handler event="force:refreshView" action="{!c.init}" />
 
     <!-- Display Lightning Data Service errors -->
@@ -23,10 +24,9 @@
         </div>
     </aura:if>
 
-    <lightning:card iconName="standard:event" title="Patient Information">
+    <lightning:card title="Patient Information">
 
         <lightning:notificationsLibrary aura:id="notifLib"/>
-        DEBUG: {!v.recordId}
         <!-- Display the new contact form: no recordId attribute = NEW Record -->
         <lightning:layout multipleRows="true">
             <lightning:recordEditForm aura:id="recordEditForm"
@@ -45,8 +45,8 @@
                 </aura:iteration>
 
                 <lightning:layoutItem size="12" flexibility="auto" padding="around-small">
-						<lightning:button class="slds-m-top_small" variant="destructive" label="Previous" onclick="{!c.clickPrevious}"/>
-						<lightning:button class="slds-m-top_small" type="submit" variant="destructive" label="Next" />
+					<lightning:button class="slds-m-top_small" variant="destructive" label="Previous" onclick="{!c.clickPrevious}"/>
+					<lightning:button class="slds-m-top_small" type="submit" variant="destructive" label="Next" />
 				</lightning:layoutItem>
                 
             </lightning:recordEditForm>   

@@ -5,14 +5,7 @@
         <detailHeading>true</detailHeading>
         <editHeading>true</editHeading>
         <label>Information</label>
-        <layoutColumns>
-            <layoutItems>
-                <field>Title</field>
-            </layoutItems>
-            <layoutItems>
-                <field>UrlName</field>
-            </layoutItems>
-        </layoutColumns>
+        <layoutColumns/>
         <style>OneColumn</style>
     </layoutSections>
 </Layout>

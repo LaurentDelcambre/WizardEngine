@@ -21,7 +21,7 @@
             "Status_Overall_Treatment__c": "In Progress",
             "Subject": "Program (Enrollment)-Kymriah Commercial-5000E000006BsEaQAK",
             "Type": "Kymriah Commercial",
-            "RecordTypeId": "0127E000000CEeUQAW"
+            "RecordTypeId": "0120E000000OE5lQAG"
         },
         {
             "attributes": {
@@ -43,7 +43,7 @@
             "Status_Plant_Appointment__c": "Reserved",
             "Subject": "Treatment-Problem-MP1234",
             "Type": "Problem",
-            "RecordTypeId": "0127E000000CEeXQAW"
+            "RecordTypeId": "0120E000000OE5oQAG"
         },
         {
             "attributes": {
@@ -64,7 +64,7 @@
             "Status": "Apheresis Procedure",
             "Subject": "Treatment-Problem-MP1234",
             "Type": "Problem",
-            "RecordTypeId": "0127E000000CEeXQAW"
+            "RecordTypeId": "0120E000000OE5oQAG"
         },
         {
             "attributes": {
@@ -88,7 +88,7 @@
             "Status_Overall_Treatment__c": "In Progress",
             "Status_Plant_Appointment__c": "Open",
             "Subject": "Treatment--",
-            "RecordTypeId": "0127E000000CEeXQAW"
+            "RecordTypeId": "0120E000000OE5oQAG"
         },
         {
             "attributes": {
@@ -115,7 +115,7 @@
             "Status_Overall_Treatment__c": "In Progress",
             "Status_Plant_Appointment__c": "Reserved - Waiting Confirmation",
             "Subject": "Treatment--",
-            "RecordTypeId": "0127E000000CEeXQAW"
+            "RecordTypeId": "0120E000000OE5oQAG"
         },
         {
             "attributes": {
@@ -141,7 +141,7 @@
             "Status_Overall_Treatment__c": "In Progress",
             "Status_Plant_Appointment__c": "Allocated",
             "Subject": "Treatment--",
-            "RecordTypeId": "0127E000000CEeXQAW"
+            "RecordTypeId": "0120E000000OE5oQAG"
         }
     ]
 }

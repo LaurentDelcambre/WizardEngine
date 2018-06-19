@@ -1,0 +1,84 @@
+<aura:component controller="CCL_PRFController" implements="force:appHostable,forceCommunity:availableForAllPageTypes" access="global">
+
+  <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+  <aura:registerEvent name="navigationEvent" type="c:CCL_PRF_NavigationEvent"/>
+  
+	<aura:attribute name="reviewMode" type="Boolean" default="false"/>
+
+	<aura:attribute name="PRFRecordId" type="Id" />
+
+	<aura:attribute name="purposesLabels" type="String[]" access="private"/>
+	
+	<aura:attribute name="purposes" type="List"/>
+	<aura:attribute name="selectedPurposeId" type="Id"/>
+	<aura:attribute name="sites" type="List"/>
+	<aura:attribute name="selectedSiteId" type="Id"/>
+	<aura:attribute name="teams" type="List"/>
+	<aura:attribute name="selectedTeamId" type="Id"/>
+	<aura:attribute name="HCPs" type="List"/>
+	<aura:attribute name="selectedHCPId" type="Id"/>
+    
+    <!-- Purpose -->
+    <lightning:layoutItem size="12">
+        <div class="slds-p-horizontal_small">
+            <p class="slds-text-heading_small">
+                <lightning:select aura:id="selectPurpose" name="selectedPurpose" label="{!v.purposesLabels[0]}" 
+                    value="{!v.selectedPurposeId}" onchange="{!c.filterSites}" required="true" messageWhenValueMissing="Please enter a Purpose" disabled="{!v.reviewMode}">
+                    <option value="">Choose a Purpose</option>
+                    <aura:iteration items="{!v.purposes}" var="purpose">
+                        <option value="{!purpose.Id}" selected="{!purpose.Id == v.selectedPurposeId}">{!purpose.Name}</option>
+                    </aura:iteration>
+                </lightning:select>
+            </p>
+        </div>
+    </lightning:layoutItem>
+    <!-- Site -->
+    <lightning:layoutItem size="12">
+        <div class="slds-p-horizontal_small">
+            <p class="slds-text-heading_small">
+								<lightning:select aura:id="selectSite" name="selectSite" label="{!v.purposesLabels[1]}"  
+									disabled="true" value="{!v.selectedSiteId}" onchange="{!c.filterTeams}" required="true" messageWhenValueMissing="Please enter a Site">
+                    <option value="">Choose a Site</option>
+                    <aura:iteration items="{!v.sites}" var="site">
+                        <option value="{!site.Id}" selected="{!site.Id == v.selectedSiteId}">{!site.Name}</option>
+                    </aura:iteration>
+                </lightning:select>
+            </p>
+        </div>
+    </lightning:layoutItem>
+    <!-- Team -->
+    <lightning:layoutItem size="12">
+        <div class="slds-p-horizontal_small">
+            <p class="slds-text-heading_small">
+								<lightning:select aura:id="selectTeam" name="selectTeam" label="{!v.purposesLabels[2]}" 
+									disabled="true" value="{!v.selectedTeamId}" onchange="{!c.filterHCPs}" required="true" messageWhenValueMissing="Please enter a Team">
+                <option value="">Choose a Team</option>
+                    <aura:iteration items="{!v.teams}" var="team">
+                        <option value="{!team.Id}" selected="{!team.Id == v.selectedTeamId}">{!team.Name}</option>
+                    </aura:iteration>
+                </lightning:select>
+            </p>
+        </div>
+    </lightning:layoutItem>
+    <!-- HCP -->
+    <lightning:layoutItem size="12">
+        <div class="slds-p-horizontal_small">
+            <p class="slds-text-heading_small">
+								<lightning:select aura:id="selectHCP" name="selectHCP" label="{!v.purposesLabels[3]}" 
+									disabled="true" value="{!v.selectedHCPId}" required="true" messageWhenValueMissing="Please enter a HCP">
+                <option value="">Choose a HCP</option>
+                    <aura:iteration items="{!v.HCPs}" var="HCP">
+                        <option value="{!HCP.Id}" selected="{!HCP.Id == v.selectedHCPId}">{!HCP.Name}</option>
+                    </aura:iteration>
+                </lightning:select>
+            </p>
+        </div>
+    </lightning:layoutItem>
+
+	<aura:if isTrue="{!v.reviewMode == false}">
+    <lightning:layoutItem size="12" flexibility="auto" padding="around-small">
+        <lightning:button class="slds-m-top_small" variant="destructive" label="Previous" onclick="{!c.clickPrevious}"/>
+        <lightning:button class="slds-m-top_small" type="submit" label="Next" onclick="{!c.clickNext}"/>
+		</lightning:layoutItem>
+	</aura:if>
+</aura:component>	

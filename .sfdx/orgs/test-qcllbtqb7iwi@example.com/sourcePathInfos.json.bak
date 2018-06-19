@@ -93,9 +93,9 @@
             "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1527846467581,
-            "changeTime": 1527846467581,
-            "contentHash": "d95f6710dcf734bc2fae78a85045645489a4db69",
+            "modifiedTime": 1528368232422,
+            "changeTime": 1528368232422,
+            "contentHash": "c89a3a1686cadcdf5bd88d788d9e3044dacf49ac",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -134,15 +134,15 @@
     [
         "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_DynamicFieldset\\CCL_DynamicFieldset.cmp",
         {
+            "state": "u",
             "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_DynamicFieldset\\CCL_DynamicFieldset.cmp",
             "isDirectory": false,
-            "size": 2815,
-            "modifiedTime": 1528210493433,
-            "changeTime": 1528210493433,
-            "contentHash": "9c2fc1fe746096fa5abc7455c3f4d10080b2f513",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 2760,
+            "modifiedTime": 1528472411227,
+            "changeTime": 1528472411227,
+            "isWorkspace": false,
+            "contentHash": "9cf47c13bf34166ff4a00eeec946db414b28cf84"
         }
     ],
     [
@@ -269,10 +269,10 @@
         {
             "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF\\CCL_PRF.cmp",
             "isDirectory": false,
-            "size": 2423,
-            "modifiedTime": 1528298087393,
-            "changeTime": 1528298087393,
-            "contentHash": "9c923390dc315e05629eac21d1bde6423352e421",
+            "size": 3905,
+            "modifiedTime": 1528471100440,
+            "changeTime": 1528471100440,
+            "contentHash": "9555ed8749605f36ebb3b7ca7d4a6b7683a0dd89",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -298,10 +298,10 @@
         {
             "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF\\CCL_PRFController.js",
             "isDirectory": false,
-            "size": 2879,
-            "modifiedTime": 1528297996854,
-            "changeTime": 1528297996854,
-            "contentHash": "5eb76aef57470ec030ea37d201861c77b132671e",
+            "size": 4273,
+            "modifiedTime": 1528470459805,
+            "changeTime": 1528470459805,
+            "contentHash": "4d18ca3052ae1163ef0a47f6296b7cbcbad5bdb0",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -327,10 +327,10 @@
         {
             "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_NavigationEvent\\CCL_PRF_NavigationEvent.evt",
             "isDirectory": false,
-            "size": 181,
-            "modifiedTime": 1527854233565,
-            "changeTime": 1527854233565,
-            "contentHash": "16ad86f41178ffcd307d5f98f3750918aeab188e",
+            "size": 744,
+            "modifiedTime": 1528452586885,
+            "changeTime": 1528452586885,
+            "contentHash": "8e736590210d3e9a4d2a7ac091174b4df0a66a82",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -386,10 +386,10 @@
         {
             "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_PurposeSite\\CCL_PRF_PurposeSite.cmp",
             "isDirectory": false,
-            "size": 3548,
-            "modifiedTime": 1528302369242,
-            "changeTime": 1528302369242,
-            "contentHash": "44605f231dfbdaf7433026dbf731b638695beac4",
+            "size": 3782,
+            "modifiedTime": 1528368547439,
+            "changeTime": 1528368547439,
+            "contentHash": "ea254ca58758f97d415f5104afd0516efbc342b1",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -458,15 +458,15 @@
     [
         "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_PurposeSite\\CCL_PRF_PurposeSiteController.js",
         {
-            "state": "u",
             "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_PurposeSite\\CCL_PRF_PurposeSiteController.js",
             "isDirectory": false,
+            "size": 6281,
+            "modifiedTime": 1528453710067,
+            "changeTime": 1528453710067,
+            "contentHash": "b2f4acfbd41dd6faeaa4381042f3914d1ee19a96",
             "isMetadataFile": false,
-            "size": 5260,
-            "modifiedTime": 1528362106740,
-            "changeTime": 1528362106740,
-            "isWorkspace": false,
-            "contentHash": "08231fb78966b31ce28c554e646b59f839454077"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -1674,10 +1674,10 @@
         {
             "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\classes\\CCL_PRFController.cls",
             "isDirectory": false,
-            "size": 2754,
-            "modifiedTime": 1528301557820,
-            "changeTime": 1528301557820,
-            "contentHash": "a43b28cadd803e55d1a95442c1e3ab598cae79ae",
+            "size": 6376,
+            "modifiedTime": 1528453421789,
+            "changeTime": 1528453421789,
+            "contentHash": "aa141d5b8a27495f462bcc74055ba79cad0a7b90",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -2301,9 +2301,9 @@
             "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\layouts",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1528281578791,
-            "changeTime": 1528281582353,
-            "contentHash": "25804496c97213e861af407d51e036e46e106e87",
+            "modifiedTime": 1528451237471,
+            "changeTime": 1528451237471,
+            "contentHash": "93e14a0bdb12c23f7783dca5be870d306acea893",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -2389,9 +2389,9 @@
             "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1528122295056,
-            "changeTime": 1528122295056,
-            "contentHash": "1e3ef33eb3941d3c839e0f8be8b80b5cbd3dd647",
+            "modifiedTime": 1528452210971,
+            "changeTime": 1528452210971,
+            "contentHash": "fb0aa086265bdc239c956f6b74ae7bd44f3467e2",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -3106,14 +3106,12 @@
         {
             "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\Account\\listViews\\AllAccounts.listView-meta.xml",
             "isDirectory": false,
-            "size": 453,
-            "modifiedTime": 1526912906366,
-            "changeTime": 1526912906366,
-            "contentHash": "7ed225d667488231c622b3850e18c75d44208bce",
+            "size": 495,
+            "modifiedTime": 1528451237458,
+            "changeTime": 1528451237458,
+            "contentHash": "a4236ef074e4f913cf473d96e24e6772a05e22a5",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -8334,14 +8332,12 @@
         {
             "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\permissionsets\\Sysadmin.permissionset-meta.xml",
             "isDirectory": false,
-            "size": 25104,
-            "modifiedTime": 1527172894755,
-            "changeTime": 1527172894755,
-            "contentHash": "fe2b21bdf644eb69858137aa61e276e85e7179c8",
+            "size": 26455,
+            "modifiedTime": 1528386496236,
+            "changeTime": 1528386496236,
+            "contentHash": "a5cd9a7a39608227bf15e18a956959859a639b6b",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -8362,10 +8358,10 @@
         {
             "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 45464,
-            "modifiedTime": 1528122295151,
-            "changeTime": 1528122295151,
-            "contentHash": "4311811b772553e9792b4c35c700d1b3117b5911",
+            "size": 47251,
+            "modifiedTime": 1528451237572,
+            "changeTime": 1528451237572,
+            "contentHash": "7aada9292dfebac680ff5da2023c6aff954458cc",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -8826,13 +8822,12 @@
             "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1527172795061,
-            "changeTime": 1527172812405,
-            "contentHash": "a6188290da9e47185df535d1f8fa16bef4383b18",
+            "modifiedTime": 1528365843202,
+            "changeTime": 1528365843202,
+            "contentHash": "f8a00333eac70d76b5b5e032390a04e1df13ebcf",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -8864,14 +8859,14 @@
     [
         "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_ReviewSubmit\\CCL_ReviewSubmit.cmp",
         {
+            "state": "u",
             "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_ReviewSubmit\\CCL_ReviewSubmit.cmp",
             "isDirectory": false,
-            "size": 773,
-            "modifiedTime": 1528215219110,
-            "changeTime": 1528215219110,
-            "contentHash": "d000b958d28da7175a5a95a42c0fac609b003402",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 6733,
+            "modifiedTime": 1528471372170,
+            "changeTime": 1528471372170,
+            "contentHash": "9caadaa05ae6027905c2e3f943548856faab5f5e"
         }
     ],
     [
@@ -9061,10 +9056,10 @@
         {
             "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\profiles\\Novartis Community Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 22677,
-            "modifiedTime": 1528122295088,
-            "changeTime": 1528122295088,
-            "contentHash": "9aac9f09233d2a957e6b5ef65b58c443c0d41204",
+            "size": 24128,
+            "modifiedTime": 1528451237506,
+            "changeTime": 1528451237506,
+            "contentHash": "1d5207085ea3deb4ac9802617af25c6afb8ebb1c",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -9074,10 +9069,10 @@
         {
             "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 26191,
-            "modifiedTime": 1528122295173,
-            "changeTime": 1528122295173,
-            "contentHash": "08682856af40c4f13310fc45fb6e9769f286cbf0",
+            "size": 27541,
+            "modifiedTime": 1528451237624,
+            "changeTime": 1528451237624,
+            "contentHash": "99c58dd113e86f12763f118bf90ed43212a8f0b8",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -9087,10 +9082,10 @@
         {
             "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 25738,
-            "modifiedTime": 1528122295173,
-            "changeTime": 1528122295173,
-            "contentHash": "c5f22ba58cf858613d72c95e44cf5f55ea1dfdf5",
+            "size": 27088,
+            "modifiedTime": 1528451237624,
+            "changeTime": 1528451237624,
+            "contentHash": "1b35b3929989b109a32d62110c60b5cfd0a3a998",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -9100,10 +9095,10 @@
         {
             "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 25737,
-            "modifiedTime": 1528122295173,
-            "changeTime": 1528122295173,
-            "contentHash": "22c8ddf692199ce036aff4f6c4ec74f521aee7e0",
+            "size": 27087,
+            "modifiedTime": 1528451237624,
+            "changeTime": 1528451237624,
+            "contentHash": "0b5f17b14d3a47eeabbf907f182379b2d47f2739",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -9221,6 +9216,318 @@
             "modifiedTime": 1528281436243,
             "changeTime": 1528281436243,
             "contentHash": "a420f10f36e2b35e423480c8ed06d2350a66d43a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_Logistics",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_Logistics",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528368232429,
+            "changeTime": 1528368232429,
+            "contentHash": "e7a2d9aa84b5d31ed7d5db52081a10c8c054e0fb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_Logistics\\CCL_PRF_Logistics.auradoc",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_Logistics\\CCL_PRF_Logistics.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1528368232428,
+            "changeTime": 1528368232428,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_Logistics\\CCL_PRF_Logistics.cmp",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_Logistics\\CCL_PRF_Logistics.cmp",
+            "isDirectory": false,
+            "size": 4550,
+            "modifiedTime": 1528450185025,
+            "changeTime": 1528450185025,
+            "contentHash": "7537b61e995469bb79769cd8128935663bb16e28",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_Logistics\\CCL_PRF_Logistics.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_Logistics\\CCL_PRF_Logistics.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 249,
+            "modifiedTime": 1528368232424,
+            "changeTime": 1528368232424,
+            "contentHash": "0592c55301b22a09fd6cdbfa4cd3f7c50e5f5d3f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_Logistics\\CCL_PRF_Logistics.css",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_Logistics\\CCL_PRF_Logistics.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1528368232426,
+            "changeTime": 1528368232426,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_Logistics\\CCL_PRF_Logistics.design",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_Logistics\\CCL_PRF_Logistics.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1528368232429,
+            "changeTime": 1528368232429,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_Logistics\\CCL_PRF_Logistics.svg",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_Logistics\\CCL_PRF_Logistics.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1528368232428,
+            "changeTime": 1528368232428,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_Logistics\\CCL_PRF_LogisticsController.js",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_Logistics\\CCL_PRF_LogisticsController.js",
+            "isDirectory": false,
+            "size": 10315,
+            "modifiedTime": 1528454448155,
+            "changeTime": 1528454448155,
+            "contentHash": "c8fab220b67b021eeb52f64feadc766f0914bfe0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_Logistics\\CCL_PRF_LogisticsHelper.js",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_Logistics\\CCL_PRF_LogisticsHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1528368232425,
+            "changeTime": 1528368232425,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_Logistics\\CCL_PRF_LogisticsRenderer.js",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\aura\\CCL_PRF_Logistics\\CCL_PRF_LogisticsRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1528368232427,
+            "changeTime": 1528368232427,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\layouts\\ProductRequest__c-Product Request Layout.layout-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\layouts\\ProductRequest__c-Product Request Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2232,
+            "modifiedTime": 1528451237471,
+            "changeTime": 1528451237471,
+            "contentHash": "221bc35a3962d8f20bc04a0aa4f2e3474036dbef",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528452142224,
+            "changeTime": 1528452142224,
+            "contentHash": "c28270fcd396aefd51d4be9a3892b591c9f30743",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fields",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528452122210,
+            "changeTime": 1528452122210,
+            "contentHash": "9859a462df232385d48d3f892ea26e4c600db819",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fieldSets",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fieldSets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1528452122215,
+            "changeTime": 1528452122215,
+            "contentHash": "c2a2ebcbdee15902f2c9a3702e9629c75fb10a95",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fields\\BodyWeightInKg__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fields\\BodyWeightInKg__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 526,
+            "modifiedTime": 1528451237467,
+            "changeTime": 1528451237467,
+            "contentHash": "835f5b9b99ce469b4e552e441a3bc244c9ca4b86",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fields\\DateOfBirthText__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fields\\DateOfBirthText__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 598,
+            "modifiedTime": 1528451342761,
+            "changeTime": 1528451342761,
+            "contentHash": "c096d983e403d1403a9ae35fb1ec9dd08be738da",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fields\\DateOfBirth__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fields\\DateOfBirth__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 450,
+            "modifiedTime": 1528451237468,
+            "changeTime": 1528451237468,
+            "contentHash": "954ffd9681f7d67b1891439713b79121357bbc8b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fields\\FirstName__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fields\\FirstName__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 763,
+            "modifiedTime": 1528451342761,
+            "changeTime": 1528451342761,
+            "contentHash": "92a2f60a44acc8674fec10424641f00bef5e814a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fields\\LastName__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fields\\LastName__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 764,
+            "modifiedTime": 1528451342761,
+            "changeTime": 1528451342761,
+            "contentHash": "abdcab82ee1124df22554d6fde88d05b855d4d2d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fields\\MiddleNameInitial__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fields\\MiddleNameInitial__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 801,
+            "modifiedTime": 1528451342761,
+            "changeTime": 1528451342761,
+            "contentHash": "5df72805a756d2cca683e2c4a0b77062dc65447b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fields\\PatientClassification__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fields\\PatientClassification__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1104,
+            "modifiedTime": 1528451342762,
+            "changeTime": 1528451342762,
+            "contentHash": "d463645622a6ac2681d3582ec372358baa19ed98",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fieldSets\\CCL_PRF_Patient_Fieldset_1.fieldSet-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fieldSets\\CCL_PRF_Patient_Fieldset_1.fieldSet-meta.xml",
+            "isDirectory": false,
+            "size": 749,
+            "modifiedTime": 1528451977136,
+            "changeTime": 1528451977136,
+            "contentHash": "ac8dba7c44a865fb1a1a36988bf1477e2b734c73",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fieldSets\\CCL_PRF_Patient_Fieldset_2.fieldSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\fieldSets\\CCL_PRF_Patient_Fieldset_2.fieldSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 604,
+            "modifiedTime": 1528472385531,
+            "changeTime": 1528472385531,
+            "contentHash": "9c1b13a5639fef3baafade06d97f222833d88c2d"
+        }
+    ],
+    [
+        "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\PRF__c.object-meta.xml",
+        {
+            "sourcePath": "D:\\Work\\SFDX\\CCL_RetrieveFromSandboxANDPulll\\force-app\\main\\default\\objects\\PRF__c\\PRF__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2179,
+            "modifiedTime": 1528452171836,
+            "changeTime": 1528452171836,
+            "contentHash": "42e8671212cf8ffc61e164582c94567e23c165d5",
             "isMetadataFile": true,
             "state": "u"
         }

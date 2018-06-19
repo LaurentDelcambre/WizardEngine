@@ -1,15 +1,48 @@
 public with sharing class CCL_PRFController {
-	// Gets Wizzard information
-	@AuraEnabled
-	public static String[] getPatientFieldsetNames() {
-		return [select id, label,Patient_Fieldsets__c from CCL_Wizzard_Configuration__mdt where DeveloperName='US_Commercial'].Patient_Fieldsets__c.split(';');
-	}
 
-    @AuraEnabled
-	public static List<Purpose__c> initPurposes() {
-		return [SELECT Id, Name FROM Purpose__c ORDER BY Name];
+
+	public class PurposesAndLabel{
+		@AuraEnabled
+		public List<String> labels{get;set;}
+		@AuraEnabled
+		public List<Purpose__c> purposes{get;set;}
+		public PurposesAndLabel(List<String> labels, List<Purpose__c> purposes){
+			this.labels = labels;
+			this.purposes = purposes;
+		}
+	}
+  
+	@AuraEnabled
+	public static PurposesAndLabel initPurposes() {
+		//Getting field label
+		Map<String, Schema.SObjectField> fieldsMap = Schema.getGlobalDescribe().get('PRF__C').getDescribe().fields.getMap();
+		List<String> fieldLabels = new List<String>{
+			fieldsMap.get('Purpose__c').getDescribe().getLabel(),
+			fieldsMap.get('Site__c').getDescribe().getLabel(),
+			fieldsMap.get('Team__c').getDescribe().getLabel(),
+			fieldsMap.get('HCP__c').getDescribe().getLabel()
+		};
+		return new PurposesAndLabel(fieldLabels, [SELECT Id, Name FROM Purpose__c ORDER BY Name]);
 	}
     
+	@AuraEnabled
+	public static List<String> filterWizardsByPurpose(String purposeId) {
+		// Returns a list of the name of Wizards associated to that Purpose
+		List<String> liWizardNames = new List<String>();
+		for(PurposeTemplate__c pt: [SELECT Id, Name, Purpose__c, Type__c
+              FROM PurposeTemplate__c WHERE Purpose__c =: purposeId]){
+			liWizardNames.add(pt.Name);
+		}
+		return liWizardNames;
+	}
+
+	// Gets Wizard information
+	@AuraEnabled
+	public static List<CCL_WizardStep__mdt> getStepsFromMetadata(String selectedWizardId) {
+		return [select id, Label, Component__C, FieldSet__c, ObjectType__c, Order__c, 
+				SectionDescription__c, WizardConfiguration__c from CCL_WizardStep__mdt where WizardConfiguration__r.DeveloperName=:selectedWizardId ORDER BY Order__c ASC];
+	}
+
     @AuraEnabled
 	public static List<Account> filterSitesByPurpose(String purposeId) {
 		return [
@@ -33,40 +66,140 @@ public with sharing class CCL_PRFController {
               FROM Contact
              WHERE Id IN (SELECT Contact__c from TeamMember__c WHERE Account__c =: teamId) ORDER BY NAME];
 	}
-
+	
 	@AuraEnabled
-	public static Id insertPRFStep1Records(Id purposeId, Id siteId, Id teamId, Id HCPId) {
-		System.debug('siteId: '+siteId);
-		// Insert PRF__c
+	public static Id insertPRFStep1Records(Id purposeId, Id siteId, Id teamId, Id HCPId, Id PRFRecordId) {
+		System.debug('PRFRecordId: '+PRFRecordId);
+		
+		Savepoint sp = Database.setSavepoint();
+		PRF__c PRFRecord = new PRF__c();
+		try{
+			System.debug('siteId: '+siteId);
+			
+			//PRFRecord.Purpose__c = purposeId;
+			PRFRecord.Site__c = siteId;
+			PRFRecord.Team__c = teamId;
+			PRFRecord.HCP__c = HCPId;
 
-		// Insert Case
-		Case record = new Case();
-		record.Purpose__c = purposeId;
-		record.AccountId = siteId;
-		record.ContactId = HCPId;
-		record.Status_Plant_Appointment__c = 'Open';
-		record.Status_Overall_Treatment__c = 'In Progress';
-		//record.Patient__c = patient.Id;
-		record.ADF_Status__c = 'Draft';
-		record.PRFSubmittedDate__c   = system.now();
-		record.PRF_Status__c = 'Draft';
-		record.RecordTypeId = [select id from RecordType where developerName = 'Treatment' limit 1].id;
-		insert record;
+			// Upsert PRF Record
+			// In case we are coming back to the screen from clicking Previous button
+			if(PRFRecordId != null){
+				PRFRecord.Id = PRFRecordId;
+			}
+			upsert PRFRecord;
 
-		// Insert Case Account records
-		CaseAccount__c[] cas = new CaseAccount__c[]{};
-		cas.add(new CaseAccount__c(Case__c = record.Id, Account__c = siteId, Role__c = 'SITE'));
-		cas.add(new CaseAccount__c(Case__c = record.Id, Account__c = teamId, Role__c = 'TEAM'));
+			// caseRecord.Status_Plant_Appointment__c = 'Open';
+			// caseRecord.Status_Overall_Treatment__c = 'In Progress';
+			// //caseRecord.Patient__c = patient.Id;
+			// caseRecord.ADF_Status__c = 'Draft';
+			// caseRecord.PRFSubmittedDate__c   = system.now();
+			// caseRecord.PRF_Status__c = 'Draft';
+			// caseRecord.RecordTypeId = [select id from RecordType where developerName = 'Treatment' limit 1].id;
+
+			// // In case we are coming back to the screen from clicking Previous button
+			// if(caseRecordId != null){
+			// 	PRFRecord.Id = PRFRecordId;
+			// }
+			// upsert caseRecord;
+
+			// // Delete previously created CaseAccount records
+			// List<CaseAccount__c> liOldCaseAccounts = [select id from CaseAccount__c where Case__c =:caseRecord.Id];
+			// delete liOldCaseAccounts;
+
+			// // Insert Case Account records
+			// CaseAccount__c[] cas = new CaseAccount__c[]{};
+			// cas.add(new CaseAccount__c(Case__c = caseRecord.Id, Account__c = siteId, Role__c = 'SITE'));
+			// cas.add(new CaseAccount__c(Case__c = caseRecord.Id, Account__c = teamId, Role__c = 'TEAM'));
 
 
-		// cas.add(new CaseAccount__c(Case__c = record.Id, Account__c = selectedSiteId, Role__c = 'PLANT'));
-		// cas.add(new CaseAccount__c(Case__c = record.Id, Account__c = aphId, Role__c = 'APH'));
-		// cas.add(new CaseAccount__c(Case__c = record.Id, Account__c = pickupId, Role__c = 'PICK'));
-		// cas.add(new CaseAccount__c(Case__c = record.Id, Account__c = infusionId, Role__c = 'INF'));
-		// cas.add(new CaseAccount__c(Case__c = record.Id, Account__c = shipToId, Role__c = 'SHIP'));
-
-		insert cas;
-		return record.id;
+			// cas.add(new CaseAccount__c(Case__c = caseRecord.Id, Account__c = selectedSiteId, Role__c = 'PLANT'));
+			// cas.add(new CaseAccount__c(Case__c = caseRecord.Id, Account__c = aphId, Role__c = 'APH'));
+			// cas.add(new CaseAccount__c(Case__c = caseRecord.Id, Account__c = pickupId, Role__c = 'PICK'));
+			// cas.add(new CaseAccount__c(Case__c = caseRecord.Id, Account__c = infusionId, Role__c = 'INF'));
+			// cas.add(new CaseAccount__c(Case__c = caseRecord.Id, Account__c = shipToId, Role__c = 'SHIP'));
+			//insert cas;	
+		}
+		catch(Exception e){
+			Database.rollback(sp);
+			System.debug(Logginglevel.ERROR, e.getMessage());
+			throw new AuraEXception(e.getMessage());
+		}
+		System.debug('PRFRecord.Id: '+PRFRecord.Id);
+		return PRFRecord.Id;
 	}
 	
+	public class LabelsAndApheresis{
+		@AuraEnabled
+		public List<String> labels{get;set;}
+		@AuraEnabled
+		public List<Account> apheresis{get;set;}
+		public LabelsAndApheresis(List<String> labels, List<Account> apheresis){
+			this.labels = labels;
+			this.apheresis = apheresis;
+		}
+	}
+	@AuraEnabled
+	public static LabelsAndApheresis initApheresisCenters(Id selectedPurposeId, Id selectedSiteId) {
+		System.debug('CCL_PRFController:initApheresisCenters:selectedPurposeId: '+selectedPurposeId+' :selectedSiteId: '+selectedSiteId);
+		//Getting field label
+		Map<String, Schema.SObjectField> fieldsMap = Schema.getGlobalDescribe().get('PRF__C').getDescribe().fields.getMap();
+		List<String> fieldLabels = new List<String>{
+			fieldsMap.get('ApheresisCenter__c').getDescribe().getLabel(),
+			fieldsMap.get('PickupLocation__c').getDescribe().getLabel(),
+			fieldsMap.get('InfusionCenter__c').getDescribe().getLabel(),
+			fieldsMap.get('ShipToLocation__c').getDescribe().getLabel()
+		};
+		return new LabelsAndApheresis(fieldLabels, [
+            SELECT Id, Name
+              FROM Account
+             WHERE Id IN (SELECT Account__c from AccountPurpose__c WHERE Purpose__c =: selectedPurposeId)
+               AND Id IN (SELECT AccountTo__c from AccountConnection__c WHERE AccountFrom__c =: selectedSiteId)
+               AND RecordType.Name = 'Apheresis Center' ORDER BY NAME]);
+	}
+
+	@AuraEnabled
+	public static List<Account> getPickUpLocations(Id selectedApheresisCenterId) {
+		System.debug('CCL_PRFController:filterPickUpLocations:selectedApheresisCenterId: '+selectedApheresisCenterId);
+		return [
+            SELECT Id, Name
+              FROM Account
+             WHERE Id IN (SELECT AccountTo__c from AccountConnection__c WHERE AccountFrom__c =: selectedApheresisCenterId AND Type__c = 'Goods Supplier')
+          ORDER BY NAME];
+	}
+
+	@AuraEnabled
+	public static List<Account> getInfusionCenters(Id selectedPurposeId, Id selectedSiteId) {
+		System.debug('CCL_PRFController:getInfusionCenters:selectedPurposeId: '+selectedPurposeId+' :selectedSiteId: '+selectedSiteId);
+		return [
+            SELECT Id, Name
+              FROM Account
+             WHERE Id IN (SELECT Account__c from AccountPurpose__c WHERE Purpose__c =: selectedPurposeId)
+               AND Id IN (SELECT AccountTo__c from AccountConnection__c WHERE AccountFrom__c =: selectedSiteId)
+               AND RecordType.Name = 'Infusion Center' ORDER BY NAME];
+	}	
+	
+	@AuraEnabled
+	public static List<Account> getShipToLocations(Id selectedInfusionCenterId) {
+		System.debug('CCL_PRFController:filterPickUpLocations:selectedInfusionCenterId: '+selectedInfusionCenterId);
+		return [
+            SELECT Id, Name
+              FROM Account
+             WHERE Id IN (SELECT AccountTo__c from AccountConnection__c WHERE AccountFrom__c =: selectedInfusionCenterId AND Type__c = 'Ship-To')
+          ORDER BY NAME];
+	}
+
+	// Update PRF__c record with Logistics information
+	// Return: void
+	@AuraEnabled
+	public static void insertPRFLogisticsRecords(Id PRFRecordId, Id apheresisCenterId, Id pickUpLocationId, 
+												Id infusionCenterId, Id shipToLocationId) {
+		System.debug('PRFRecordId: '+PRFRecordId);
+		PRF__c PRFRecord = new PRF__C(Id=PRFRecordId);
+		PRFRecord.ApheresisCenter__c = apheresisCenterId;
+		PRFRecord.PickupLocation__c = pickUpLocationId;
+		PRFRecord.InfusionCenter__c = infusionCenterId;
+		PRFRecord.ShipToLocation__c = shipToLocationId;
+		update PRFRecord;
+		return;
+	}
 }

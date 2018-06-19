@@ -162,12 +162,6 @@
     </layoutSections>
     <quickActionList>
         <quickActionListItems>
-            <quickActionName>Case.PatientServices</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
-            <quickActionName>Case.APH_Event</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
             <quickActionName>FeedItem.TextPost</quickActionName>
         </quickActionListItems>
         <quickActionListItems>

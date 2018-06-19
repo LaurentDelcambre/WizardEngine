@@ -218,25 +218,6 @@
     </relatedLists>
     <relatedLists>
         <fields>NAME</fields>
-        <fields>Appointment__c</fields>
-        <fields>Status__c</fields>
-        <fields>StartDate__c</fields>
-        <fields>Purpose__c</fields>
-        <fields>Site__c</fields>
-        <relatedList>PlantAppointmentSlot__c.Plant__c</relatedList>
-        <sortField>StartDate__c</sortField>
-        <sortOrder>Asc</sortOrder>
-    </relatedLists>
-    <relatedLists>
-        <fields>NAME</fields>
-        <fields>Plant__c</fields>
-        <fields>StartDate__c</fields>
-        <fields>Purpose__c</fields>
-        <fields>Status__c</fields>
-        <relatedList>PlantAppointmentSlot__c.Site__c</relatedList>
-    </relatedLists>
-    <relatedLists>
-        <fields>NAME</fields>
         <fields>FirstName__c</fields>
         <fields>MiddleNameInitial__c</fields>
         <fields>LastName__c</fields>

@@ -20,6 +20,16 @@
                 <default>false</default>
                 <label>Label</label>
             </value>
+            <value>
+                <fullName>PRF_Wizard</fullName>
+                <default>false</default>
+                <label>PRF_Wizard</label>
+            </value>
+            <value>
+                <fullName>ADF_Wizard</fullName>
+                <default>false</default>
+                <label>ADF_Wizard</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>

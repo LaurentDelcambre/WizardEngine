@@ -12,7 +12,8 @@
         }
         
         var getFieldsAction = component.get('c.getFields');
-
+        console.log("parameter sobjectName: "+sobjectName);
+        console.log("parameter fieldSetName: "+fieldSetName);
         getFieldsAction.setParams({
             recordId: recordId,
             objectName: sobjectName,
@@ -28,6 +29,9 @@
             	if (component.isValid() && state === "SUCCESS") {
                     var fields = response.getReturnValue();
 	                component.set('v.fields', fields);
+                }
+                else{
+                    helper.displayErrors(response);
                 }
             }
         );
@@ -53,11 +57,12 @@
             type: "success"
         });
         toastEvent.fire();
-        
+
         // Fire Next event
         var cmpEvent = component.getEvent("navigationEvent");
-        cmpEvent.setParams({"navigateAction" : "Patient_Next",
-                            "recordId"       : returnedRecordId});
+        cmpEvent.setParams({"navigateOriginComponent" : "Wizard_FieldSet",
+                            "navigateAction" : "Next",
+                            "PRFRecordId"       : returnedRecordId});
         cmpEvent.fire();
     },
     saveSubmit: function(component, event, helper) {
@@ -149,7 +154,9 @@
         
 		// Fire Previous event
         var cmpEvent = component.getEvent("navigationEvent");
-        cmpEvent.setParams({"navigateAction" : "Patient_Previous"});
+        cmpEvent.setParams({
+                "navigateOriginComponent" : "Wizard_FieldSet",
+                "navigateAction" : "Previous",});
         cmpEvent.fire();
 	}
 })

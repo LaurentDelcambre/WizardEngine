@@ -56,9 +56,8 @@
     <externalSharingModel>ControlledByParent</externalSharingModel>
     <label>Purpose Template</label>
     <nameField>
-        <displayFormat>{000000}</displayFormat>
-        <label>Template #</label>
-        <type>AutoNumber</type>
+        <label>Wizard Name</label>
+        <type>Text</type>
     </nameField>
     <pluralLabel>Purpose Templates</pluralLabel>
     <searchLayouts/>

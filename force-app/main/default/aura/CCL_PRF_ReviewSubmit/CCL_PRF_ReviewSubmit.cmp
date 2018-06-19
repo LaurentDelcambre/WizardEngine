@@ -1,0 +1,75 @@
+<aura:component controller="CCL_DynamicFieldsetController" 
+                implements="force:hasRecordId,force:hasSObjectName" >
+    
+    <aura:attribute name="PRFRecordId"       type="Id"  required="true"/>
+    <aura:attribute name="selectedPurposeId"       type="Id"  required="true"/>
+    <aura:attribute name="selectedSiteId"       type="Id"  required="true"/>
+    <aura:attribute name="selectedTeamId"       type="Id"  required="true"/>
+    <aura:attribute name="selectedHCPId"       type="Id"  required="true"/>
+    <aura:attribute name="selectedApheresisCenterId"       type="Id"  required="true"/>
+    <aura:attribute name="selectedPickUpLocationId"       type="Id"  required="true"/>
+    <aura:attribute name="selectedInfusionCenterId"       type="Id"  required="true"/>
+    <aura:attribute name="selectedShipToLocationId"       type="Id"  required="true"/>
+
+		<aura:registerEvent name="navigationEvent" type="c:CCL_PRF_NavigationEvent"/>
+
+		<lightning:layoutItem size="12" flexibility="auto" padding="around-small">
+			<h3 class="slds-section-title_divider slds-has-divider_bottom">Purpose Information</h3>
+			<c:CCL_PRF_PurposeSelector reviewMode="true" 
+					selectedPurposeId="{!v.selectedPurposeId}"
+					selectedWizardId="{!v.selectedWizardId}"/>
+		</lightning:layoutItem>
+
+		<lightning:layoutItem size="12" flexibility="auto" padding="around-small">
+			<h3 class="slds-section-title_divider slds-has-divider_bottom">Site information</h3>
+			<c:CCL_PRF_SiteTeamHCP reviewMode="true" 
+					selectedPurposeId="{!v.selectedPurposeId}"
+					selectedSiteId="{!v.selectedSiteId}"
+					selectedTeamId="{!v.selectedTeamId}"
+					selectedHCPId="{!v.selectedHCPId}"/>
+		</lightning:layoutItem>
+
+		
+
+		<lightning:layoutItem size="12" flexibility="auto" padding="around-small">
+			<h3 class="slds-section-title_divider slds-has-divider_bottom">Patient Information</h3>
+			<lightning:recordViewForm  aura:id="recordViewForm"
+							objectApiName="PRF__c"
+							recordId="{! v.PRFRecordId }">
+				<lightning:layout multipleRows="true">
+					<lightning:layoutItem size="6" flexibility="auto" padding="around-large" >
+						<lightning:outputField fieldName="DateOfBirth__c" />
+					</lightning:layoutItem>
+					<lightning:layoutItem size="6" flexibility="auto" padding="around-large" >
+						<lightning:outputField fieldName="FirstName__c" />
+					</lightning:layoutItem>
+					<lightning:layoutItem size="6" flexibility="auto" padding="around-large" >
+						<lightning:outputField fieldName="LastName__c" />
+					</lightning:layoutItem>
+					<lightning:layoutItem size="6" flexibility="auto" padding="around-large" >
+						<lightning:outputField fieldName="PatientClassification__c" />
+					</lightning:layoutItem>
+					<lightning:layoutItem size="6" flexibility="auto" padding="around-large" >
+						<lightning:outputField fieldName="BodyWeightInKg__c" />
+					</lightning:layoutItem>
+				</lightning:layout>
+			</lightning:recordViewForm>
+		</lightning:layoutItem>
+		
+		<lightning:layoutItem size="12" flexibility="auto" padding="around-small">
+				<h3 class="slds-section-title_divider slds-has-divider_bottom">Logistics Information</h3>
+				<c:CCL_PRF_Logistics readOnlyMode="true" 
+						selectedPurposeId="{!v.selectedPurposeId}" 
+						selectedSiteId="{!v.selectedSiteId}"
+						PRFRecordId="{!v.PRFRecordId}"
+						selectedApheresisCenterId="{!v.selectedApheresisCenterId}"
+						selectedPickUpLocationId="{!v.selectedPickUpLocationId}"
+						selectedInfusionCenterId="{!v.selectedInfusionCenterId}"
+						selectedShipToLocationId="{!v.selectedShipToLocationId}"/>
+			</lightning:layoutItem>
+
+	<lightning:layoutItem size="12" flexibility="auto" padding="around-small">
+		<lightning:button class="slds-m-top_small" variant="destructive" label="Previous" onclick="{!c.clickPrevious}"/>
+		<lightning:button class="slds-m-top_small" type="submit" label="Submit for review" onclick="{!c.submit}"/>
+	</lightning:layoutItem>						
+</aura:component>	
