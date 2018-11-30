@@ -7,5 +7,9 @@
     },
     "terminal.integrated.env.windows": {
         "SFDX_SET_CLIENT_IDS": "sfdx-vscode"
-    }
+    },
+    "salesforcedx-vscode-core.show-cli-success-msg": false,
+    "eslint.nodePath": "c:\\Users\\Laurent\\.vscode\\extensions\\salesforce.salesforcedx-vscode-lwc-44.9.0\\node_modules",
+    "html.suggest.angular1": false,
+    "html.suggest.ionic": false
 }

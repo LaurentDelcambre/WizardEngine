@@ -8,7 +8,18 @@
             "CertifiedSite__c": true,
             "ISBTCompliant__c": false,
             "Name": "Hospital -MDA Cancer Center",
-            "RecordTypeId": "0120E000000OE5jQAG",
+            "RecordTypeId": "0127E000000QpBfQAK",
+            "Type": "Site"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef18"
+            },
+            "CertifiedSite__c": false,
+            "ISBTCompliant__c": false,
+            "Name": "Hospital - Mayo Clinic",
+            "RecordTypeId": "0127E000000QpBfQAK",
             "Type": "Site"
         },
         {
@@ -20,7 +31,7 @@
             "Description": "Groups different hubs material is ship through to Europe",
             "ISBTCompliant__c": false,
             "Name": "ROUTE - Morris Plains to EU",
-            "RecordTypeId": "0120E000000OE5iQAG",
+            "RecordTypeId": "0127E000000QpBeQAK",
             "Type": "ROUTE"
         },
         {
@@ -31,7 +42,7 @@
             "CertifiedSite__c": false,
             "ISBTCompliant__c": false,
             "Name": "SHIP - INT -MDA Centre",
-            "RecordTypeId": "0120E000000OE5fQAG"
+            "RecordTypeId": "0127E000000QpBDQA0"
         },
         {
             "attributes": {
@@ -41,7 +52,7 @@
             "CertifiedSite__c": false,
             "ISBTCompliant__c": false,
             "Name": "INF - MDA - Internal Center",
-            "RecordTypeId": "0120E000000OE5fQAG"
+            "RecordTypeId": "0127E000000QpBDQA0"
         },
         {
             "attributes": {
@@ -51,7 +62,7 @@
             "CertifiedSite__c": false,
             "ISBTCompliant__c": false,
             "Name": "PICK - EXT -Fresenius APH",
-            "RecordTypeId": "0120E000000OE5dQAG",
+            "RecordTypeId": "0127E000000QpBBQA0",
             "Type": "APH"
         },
         {
@@ -62,7 +73,7 @@
             "CertifiedSite__c": false,
             "ISBTCompliant__c": false,
             "Name": "APH - EXT -Fresenius APH",
-            "RecordTypeId": "0120E000000OE5dQAG",
+            "RecordTypeId": "0127E000000QpBBQA0",
             "Type": "APH"
         },
         {
@@ -74,7 +85,7 @@
             "Description": "European Release Hub for material",
             "ISBTCompliant__c": false,
             "Name": "Release Hub - Boenen",
-            "RecordTypeId": "0120E000000OE5iQAG",
+            "RecordTypeId": "0127E000000QpBeQAK",
             "Type": "ROUTE"
         },
         {
@@ -85,7 +96,7 @@
             "CertifiedSite__c": false,
             "ISBTCompliant__c": false,
             "Name": "Plant -Morris Plains",
-            "RecordTypeId": "0120E000000OE5hQAG",
+            "RecordTypeId": "0127E000000QpBFQA0",
             "Type": "Plant"
         },
         {
@@ -96,7 +107,7 @@
             "CertifiedSite__c": false,
             "ISBTCompliant__c": false,
             "Name": "Plant -Fraunhofer",
-            "RecordTypeId": "0120E000000OE5hQAG",
+            "RecordTypeId": "0127E000000QpBFQA0",
             "Type": "Plant"
         },
         {
@@ -107,19 +118,8 @@
             "CertifiedSite__c": false,
             "ISBTCompliant__c": false,
             "Name": "Patient - Emily Rose",
-            "RecordTypeId": "0120E000000OE5gQAG",
+            "RecordTypeId": "0127E000000QpBEQA0",
             "Type": "Patient"
-        },
-        {
-            "attributes": {
-                "type": "Account",
-                "referenceId": "AccountRef18"
-            },
-            "CertifiedSite__c": false,
-            "ISBTCompliant__c": false,
-            "Name": "Hospital - Mayo Clinic",
-            "RecordTypeId": "0120E000000OE5jQAG",
-            "Type": "Site"
         },
         {
             "attributes": {
@@ -129,7 +129,7 @@
             "CertifiedSite__c": false,
             "ISBTCompliant__c": false,
             "Name": "Robert Koch (EXT)",
-            "RecordTypeId": "0120E000000OE5eQAG",
+            "RecordTypeId": "0127E000000QpBCQA0",
             "Type": "HCP"
         }
     ]

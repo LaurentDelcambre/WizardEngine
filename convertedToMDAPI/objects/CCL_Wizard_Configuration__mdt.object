@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Each record represents an independant Wizard</description>
+    <label>Wizard Configuration</label>
+    <pluralLabel>Wizard Configurations</pluralLabel>
+    <visibility>Public</visibility>
+    <fields>
+        <fullName>Title__c</fullName>
+        <description>Title of the Wizard</description>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <inlineHelpText>Title of the Wizard</inlineHelpText>
+        <label>Title</label>
+        <length>250</length>
+        <required>true</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Type__c</fullName>
+        <description>Type of Wizard</description>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <inlineHelpText>Type of Wizard</inlineHelpText>
+        <label>Type</label>
+        <required>true</required>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>PRF</fullName>
+                    <default>true</default>
+                    <label>PRF</label>
+                </value>
+                <value>
+                    <fullName>ADF</fullName>
+                    <default>false</default>
+                    <label>ADF</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+</CustomObject>

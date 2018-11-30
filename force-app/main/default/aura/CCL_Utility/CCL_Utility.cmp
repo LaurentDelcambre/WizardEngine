@@ -1,5 +1,0 @@
-<aura:component>
-    <aura:method name="getFunctionAsPromise" action="{!c.getFunctionAsPromise}">
-        <aura:attribute name="helperFunction" type="function" />
-    </aura:method>
-</aura:component>	

@@ -26,6 +26,8 @@
         <members>Account</members>
         <members>AccountConnection__c</members>
         <members>AccountPurpose__c</members>
+        <members>AppointmentLineItem__c</members>
+        <members>Appointment__c</members>
         <members>BOMLineItem__c</members>
         <members>CCL_Event__e</members>
         <members>CCL_Message__c</members>
@@ -41,6 +43,7 @@
         <members>Patient__c</members>
         <members>PlantMaterial__c</members>
         <members>PlantRoutingHub__c</members>
+        <members>PRF__c</members>
         <members>PurposeTemplate__c</members>
         <members>Purpose__c</members>
         <members>TeamMember__c</members>

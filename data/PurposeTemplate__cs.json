@@ -14,7 +14,7 @@
                 "type": "PurposeTemplate__c",
                 "referenceId": "PurposeTemplate__cRef2"
             },
-            "Name": "ADF_KymriahCommercial_EU",
+            "Name": "ADF_KymriahCommercial_US",
             "Type__c": "ADF_Wizard",
             "Purpose__c": "@Purpose__cRef4"
         },

@@ -1,2 +1,0 @@
-CaseStatus: {!Case.Status}
-PurposeRegion: {!Purpose__c.Region__c}
